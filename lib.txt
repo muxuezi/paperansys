@@ -1,0 +1,58 @@
+1.	Wang Yanling, JP Mather, T Woodroff, Luo Shuyi, Zhuang Linzhi*. Regulation of activin A in cell proliferation and hormone secretion by human normal trophoblast cells. Chinese Science Bulletin, 1999, 44: 609-612
+2.	Yan-ling Wang, Yu Liu, Yun-shang Piao, Lin-zhi Zhuang, SW Tsao*. Immortalization of normal human placenta-origin cytotrophoblast cell line (NPC) by regeneration of telomerase activity. Biology of Reproduction, 2000, 62 (suppl.): 312-313
+3.	Ping Xu, Yan-ling Wang, Si-jun Zhu, Shu-yi Luo, Yun-shang Piao, Lin-zhi Zhuang*. Expression of matrix metalloproteinase-2, -9, -14, tissue inhibitors of metalloproteinase-1, and matrix proteins in human placenta during the first trimester. Biology of Reproduction, 2000, 62: 988-994 
+4.	Ping Xu, Yan-ling Wang, Su-xia Bai, Zhi-jie Xiao, Ya-li Jia, Shu-yi Luo, Yun-shang Piao, Lin-zhi Zhuang*. Effect of matrix proteins on the expression of matrix metalloproteinase-2, -9, -14 and tissue inhibitors of metalloproteinases in human cytotrophoblast cells during the first trimester. Biology of Reproduction, 2001, 65: 240-246 
+5.	Wu DN, Luo S, Wang YL, Zhuang LZ, Chen Y, Peng C*. Smads in human trophoblast cells: expression, regulation and role in TGF-b-induced transcriptional activity. Molecular and Cellular Endocrinology, 2001, 175:111-121 
+6.	Zhu SJ, Li Y, Li H, Wang YL, Xiao ZJ, Vihko P, Piao YS*. Retinoic acids promote the action of aromatase and 17 b-estrodiol in placental cells. Journal of Endocrinology, 2002, 172: 31-43 
+7.	Li Qin, Yan-ling Wang*, Su-xia Bai, Shao-hui Ji, Wei Qiu, Shuang Tang, Yun-shang Piao. Temporal and spatial expression of integrins and their extracellular matrix ligands at the maternal-fetal interface in the rhesus monkey during pregnancy. Biol. Reprod. 2003, 69: 563-571
+8.	Yin-fei Tan, Xiao-yang Sun, Fei-xue Li, Yun-shang Piao, Yan-ling Wang*. Global gene profiling of mouse uterine endometrium during normal estrol cycle. Reproduction, 2003, 126: 171-182 
+9.	Li Qin, Yan-ling Wang*, Su-xia Bai, Zhi-jie Xiao, Riitta Herva, Yun-shang Piao. Expression of integrins and extracellular matrix proteins at the maternal-fetal interface during tubal implantation. Reproduction, 2003,126：383－391
+10.	Li Y, Qin L, Xiao ZJ, Wang YL, Herva R, Leng JH, Lang JH, Isomma V & Piao YS*. Expression of P450 aromatase and 17beta-hydroxysteroid dehydrogenase type 1 at fetal-maternal interface during tubal pregnancy. J Steroid Biochem Mol Biol, 2003, 87: 241-246
+11.	孙晓阳，谈寅飞，唐爽，王雁玲*。利用少量而珍贵样品构建消减文库。生物化学与生物物理进展。2003,30:889-893
+12.	孙晓阳，王雁玲*。Wnt信号通路与哺乳动物生殖。生物化学与生物物理进展，2003，30（2）：180－184
+13.	秦力，柏素霞，唐爽，王雁玲*。恒河猴浅表植入分子机理初探。动物学报。2003, 49:473-480 
+14.	秦力，王雁玲*。输卵管妊娠着床窗口的分子基础及母胎界面相关分子的表达，2003，12（6）：369－373
+15.	赵亮，尚涛，王雁玲，唐爽，李辉，柳忠辉。激活素A和卵泡休止素在先兆子痫的相关性研究。中华妇产科杂志。 2003,38: 676-679 
+16.	赵亮，尚涛，王雁玲，李斐雪，仇巍，李辉，2004。激活素A和卵泡休止素对人滋养层细胞增殖和激素分泌的调节作用。生殖与避孕，24（5）：265－269
+17.	郭志荣，柏素霞，张琚，朴允尚，朱蓬第，王介东，王雁玲*。基质金属蛋白酶-26在正常妇女和子宫内膜异位症患者子宫内膜中的时空变化。生殖与避孕。2003, 23:195-199
+18.	郭志荣，张琚，柏素霞，朗景和，冷金花，秦力，朴允尚，王雁玲*。子宫内膜异位症和腺肌症患者子宫内膜雌激素受体的时空表达。生殖医学杂志，2004，139（2）：65－70
+19.	郭志荣，张琚，朗景和，冷金花，朴允尚，王雁玲*。子宫腺肌症患者在位子宫内膜雌激素效应相关因子的时空变化。中华妇产杂志，2004，39（4）：246－249
+20.	谈寅飞，孙晓阳，唐爽，朴允尚，王雁玲*。富含脯氨酸小蛋白－2在小鼠子宫中的表达及调节。生物化学与生物物理进展。2004,31（1）:73-76
+21.	李斐雪，谈寅飞，王雁玲，2004。G0101C03-3和L0254H10-3基因在小鼠动情周期子宫中的差异表达。动物学报，50（3）：395－400
+22.	Xiao-Yang Sun, Fei-Xue Li, Jun Li, Yin-Fei Tan, Yun-Shang Piao, Shuang Tang, Yan-Ling Wang*. Determination of genes involved in the early process of embryonic implantation in rhesus monkey (Macaca mulatta) by suppression subtractive hybridization. Biology of reproduction 2004, 70: 1365-1373
+23.	Huichen Feng, Annie NY Cheung, Wei-Cheng Xue, Yanling Wang, Xianghong Wang, Songbin Fu, Qi Wang, Hextan YS Ngan, Sai-Wah Tsao*. Down-regulation and promoter methylation of tissue inhibitor of metalloproteinase 3 in choriocarcinoma. Gynecol. Oncol. 2004, 94:375-382.
+24.	Wei Qiu, Su-Xia Bai, Mei-rong Zhao, Xiao-qiu Wu, Yun-Ge Zhao, Qing-Xiang Amy Sang, Yan-Ling Wang* Spatio-temporal expression of matrix metalloproteinase-26 in human placental trophoblasts and fetal red cells during normal placentation. Biology of Reproduction, 2005, 72: 954–959
+25.	Guojun Cheng, Yan Li, Yoko Omoto, Yanling Wang, Tove Berg, Magnus Nord, Pirkko Vihko, Margaret Warner, Yun-Shang Piao and Jan-Åke Gustafsson*. Differential regulation of ERa and ERb in primate mammary gland. Journal of Clinical Endocrinology & Metabolism. 2005, 90(1):435-444
+26.	仇巍，赵亮，柏素霞，Qing-xiang Amy Sang, 王雁玲*。MMP-26在人正常胎盘细胞滋养层细胞中的表达及激活素A对其表达的调节。生物化学与生物物理进展，2005,32:25-30 
+27.	陈志强，李斐雪，刘璟，章怀云，王雁玲*。蛋白激酶H11基因在小鼠子宫中的表达及其性激素调节。动物学报，2005，51：462－468
+28.	李斐雪，孙晓阳，王雁玲*，2005。恒河猴植入位点差异基因筛选及蛋白激酶H11的克隆。自然科学进展，15（1）：53－60
+29.	Bai SX, Wang YL*, Qin L, Xiao ZJ, Herva R and Piao YS*. Dynamic expression of matrix metalloproteinases (MMP-2, -9 and -14) and the tissue inhibitors of MMPs (TIMP-1, -2 and -3) at the implantation site during tubal pregnancy. Reproduction, 2005, 129:103-113
+30.	王雁玲*. 胚胎植入障碍与先兆子痫. 医学分子生物学杂志. 2006,3(2):85-89 (特邀专家述评）
+31.	Mei-rong Zhao, Wei Qiu, Yu-xia Li, Zhi-bin Zhang, Dong Li, Yan-ling Wang*.  Dual effect of TGF1 on cell adhesion and invasion in human normal placenta trophoblast cells. Reproduction, 2006, 132:333-341 
+32.	赵美蓉，陈志强，仇巍，李玉侠，王雁玲*. TGF-β1对人正常胎盘滋养层细胞表达E-钙粘素的调节. 生物化学与生物物理进展. 2006，33（5）:492-499
+33.	Yan-ling Wang*, Wei Qiu, Hui-chen Feng, Lin-zhi Zhuang, Zhe Wang, Yu Liu, Jin-qiu Zhou, Deng-hong Zhang, Sai-Wah Tsao*. An immortalized normal human cytotrophoblast cell line generated by exogenous expression of telomeric reverse transcriptase. Molecular Human Reproduction, 2006, 12:451-460
+34.	吴晓秋，李玉侠，付雅媛，李殿俊，Sang Qing-xiang，王雁玲*. 基质金属蛋白酶MMP-26能有效促进人绒毛膜上皮癌细胞JEG-3浸润能力. 生物化学与生物物理进展. 2006，33(6):524-530   
+35.	Liu J, Fu YY, Sun XY, Li FX, Li YX, Wang YL*. Expression of SWAP-70 in the uterus and feto-maternal interface during embryonic implantation and pregnancy in the rhesus monkey (Macaca mulatta). Histochem Cell Biol. 2006, 126(6): 695-704
+36.	Yin-fei Tan, Xiao-yang Sun, Fei-xue Li, Shuang Tang, Yun-shang Piao, Yan-ling Wang*. Gene expression pattern and hormonal regulation of Small Proline-Rich Protein 2 family members in the female mouse reproductive system during the estrous cycle and pregnancy. Reprod. Nutr. Dev. 2006, 46: 641–655
+37.	刘璟，李斐雪，李玉侠，王雁玲. SWAP-70在小鼠正常动情周期和围植入期子宫中的表达及其调节. 自然科学进展，2006，16（12）：1568－1574
+38.	Jing Liu, Dong Li, Bin Cao, Yu-xia Li, Riitta Herva, Yun-shang Piao and Yan-ling Wang*. Expression and localization of SWAP-70 on human feto-maternal interface during fallopian implantation and normal pregnancy. J Histochem Cytochem. 2007, 55(7):701-708
+39.	Meirong ZHAO, Ming LIU, Dong LI, Xinrong WAN, Lyn A. HINDS, Yanling WANG* and Zhibin ZHANG*. Anti-fertility effect of levonorgestrel and quinestrol in Brandt’s voles (Lasiopodomys brandti). Integrative Zoology 2007, 2: 260－268
+40.	Mardon HJ, Bagchi MK, Bagchi IC, Peng C, Karpovich N and Wang Y. Hormonal and paracrine Regulation of embryonic implantation: A workshop report. Placenta, 2007, 28 Suppl A: S82-84
+41.	Wang YL*, Wu X, Liu J, Li Y, Cao B, Leung PCK. Effect of matrix metalloproteinase-26 on cell invasion and its modulation by gonadotropin releasing hormones in human trophoblast cells. In Translational research in Uterine Biology. Editors, MaruoT, MardonH, and Stewart C. 2008, Elsevier. pp137-147 
+42.	Wang YL*, Cheng LZ. Regulation of primate trophoblast lineage differentiation – Insights learned from human embryonic stem cells. Reprod Biol Insights. 2009, 2: 11-21
+43.	Liu J, MacCalman CD, Wang YL*, Leung PC*. Promotion of Human Trophoblasts Invasion by Gonadotropin-Releasing Hormone (GnRH) I and GnRH II via Distinct Signaling Pathways. Molecular Endocrinology. 2009, 23(7):1014-1021
+44.	Zhao MR, Qiu W, Li YX, Sang QX, Wang YL*. Dynamic change of adamalysin 19 (ADAM19) in human placentas and its effects on cell invasion and adhesion in human trophoblastic cells. Sci China Ser C – Life Sci. 2009, 52:710-718
+45.	Zeng X, Sun Y, Yang H, Li D, Li YX, Liao QP *, Wang YL *. Plasma level of soluble Met is tightly associated with the clinical risk of preeclampsia. Am J Ob Gyn. 2009, 201(6): 618-619
+46.	Ma XJ, Fu YY, Li YX, Chen LM, Chai K, Wang YL*. Prostasin Inhibits Cell Invasion in Human Choriocarcinomal JEG-3 Cells. Histochem Cell Biol. 2009, 132(6), pp 639-646
+47.	J Liu, YL Wang*. Effects of Type I Gonadotropin-releasing Hormone (GnRH) and Type II GnRH on Cell Invasion in Human Choriocarcinomal JEG-3 Cells. 生物化学和生物物理进展, 2009, 36(3), pp 378-384
+48.	Ji L, Brkić J, Liu M, Fu G, Peng C*, Wang YL*. Placental trophoblast cell differentiation: physiological regulation and pathological relevance to preeclampsia. Mol Asp Med, 2013,34:981-1023.
+49.	Fu G, Ye G, Nadeem L, Ji L, Manchanda T, Wang Y, Zhao Y, Qiao J, Wang YL, Lye S, Yang B B, and Peng C*. (2013) MicroRNA-376c Impairs Transforming Growth Factor-beta and Nodal Signaling to Promote Trophoblast Cell Proliferation and Invasion. Hypertension, 2013, 61:864-872 
+50.	Lu J, Zhang S, Nakano H, Simmons DG, Wang S, Kong S, Wang Q, Shen L, Tu Z, Wang W, Wang B, Wang H, Wang Y, van Es JH, Clevers H, Leone G, Cross JC, Wang H*. A positive feedback loop involving Gcm1 and Fzd5 directs chorionic branching morphogenesis in theplacenta.PLoS Biol. 2013;11(4):e1001536.
+51.	Yu L, Li D, Liao Q, Yang H, Cao B, Fu G, Ye G, Bai Y, Wang H, Cui N, Liu M, Li YX, Peng C*, Wang YL*. High levels of ActivinA detected in preeclamptic placenta induce trophoblast cell apoptosis by promoting Nodal signaling. J Clin Endo Metab, 2012, 97: E1370–E1379
+52.	Yang Y, Wang Y, Zeng X, Ma XJ, Zhao Y, Qiao J, Cao B,Li YX, Ji L, Wang YL*. Self-control of HGF regulation on human trophoblast cell invasion via enhancing c-Met receptor shedding by ADAM10 and ADAM17. J Clin Endo Metab, 2012, 97: E1390–E1401
+53.	Bai Y, Yang W, Yang H, Liao Q, Ye G, Fu G, Ji L, Xu P, Wang H, Li YX, Peng C, Wang YL*. Downregulated miR-195 detected in preeclamptic placenta affects trophoblast cell invasion via modulating ActRIIA expression. PLoS ONE, 2012, 2012;7(6):e38875
+54.	Gao WL, Liu M, Li D, Yang H, Liao Q, Yang Y, Bai Y, Li YX, Peng C, Wang YL*. The imprinted H19 gene regulates human placental trophoblast cell proliferation via encoding miR-675 that targets Nodal Modulator 1 (NOMO1). RNA Biol, 2012, 9:1002-1010 
+55.	Fu YY, Nergard JC, Barnette NK, Wang YL, Chai KX, Chen LM *. Proteasome inhibition augments cigarette smoke-induced GM-CSF expression in trophoblast cells via the epidermal growth factor receptor. PLoS One. 2012;7(8):e43042.
+56.	Gao WL, Li D, Xiao Z, Liao QP, Yang HX, Li Y, Ji L and Wang YL*. Detection of global DNA methylation and paternally imprinted H19 gene methylation in preeclamptic placentas. Hyp Res, 2011 34(5):655-61
+57.	Liu J, Cao B, Li YX, Wu XQ, Wang YL*. GnRH I and II up-regulate MMP-26 expression through the JNK pathway in human cytotrophoblasts. Reprod Biol Endocrinol, 2010,8:5-
+58.	Fu YY, Gao WL, Chen MQ, Chai KX, Wang YL*, Chen LM. Prostasin Regulates Human Placental Trophoblast Cell Proliferation via the EGFR Signaling Pathway. Hum Reprod, 2010, 5: 623-632
