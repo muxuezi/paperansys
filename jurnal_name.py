@@ -20,12 +20,39 @@ class JurnalName(unittest.TestCase):
         self.verificationErrors = []
         self.accept_next_alert = True
 
-    def getlist(self, soup, fput):
-        # link = 'http://epub.cnki.net/kns/oldnavi/n_list.aspx?NaviID=1&Field=cykm$%&DisplayMode=%E8%AF%A6%E7%BB%86%E6%96%B9%E5%BC%8F'
+    def getkeys(self, jurl):
+        baseurl = 'http://epub.cnki.net/kns/oldnavi/'
+        jurl = baseurl + jurl
+        html_doc = urllib.urlopen(jurl)
+        soup = BeautifulSoup(html_doc)
+        try:
+            head = soup.find('strong', text=re.compile(u'该刊被以下数据库收录：'))
+        except AttributeError:
+            print 'no included'
+            return []
+        else:
+            included = []
+            while True:
+                try:
+                    head = head.next_sibling
+                except AttributeError:
+                    break
+                if head is None or head.name == 'strong':
+                    break
+                elif head.name is None:
+                    included.append(head)
+        return included
+
+    def getlist(self, soup, fput, pageid):
+        j = 1
         heads = [u'中文名称', u'英文名称', u'曾用刊名',
                  u'主办单位', u'复合影响因子', u'综合影响因子', u'被引频次']
         for li in soup.find_all("div", class_="colPicText"):
+            jnum = str(pageid * 10 + j)
+            fput.write(jnum + '\n')
             temp = li.find('p')
+            jurl = li.previousSibling.a.get('href')
+            included = self.getkeys(jurl)
 
             def filt(h):
                 if temp.find(text=re.compile(h)):
@@ -33,24 +60,32 @@ class JurnalName(unittest.TestCase):
                 else:
                     return h + u':暂无'
 
+            print jnum, filt(heads[0]).encode('utf8')
             for k in map(lambda h: filt(h), heads):
                 fput.write(k.strip().encode('utf8') + '\n')
-            fput.write('\n')
+            fput.write(u'该刊被以下数据库收录：'.encode('utf8') + '\n')
+            if included == []:
+                fput.write(u'暂无'.encode('utf8') + '\n')
+            else:
+                for icd in included:
+                    fput.write(icd.encode('utf8') + '\n')
+            j += 1
 
     def test_jurnal_name(self):
-        fput = open('jurnalinfo.txt', 'wb')
+        fput = open('jurnalinfo.txt', 'wb+')
         driver = self.driver
         link = self.base_url + \
             "/kns/oldnavi/n_list.aspx?NaviID=1&Field=cykm%24%25&DisplayMode=%u8be6%u7ec6%u65b9%u5f0f"
         driver.get(link)
-        for pageid in range(1, 1004):
+        # for pageid in [19, 25, 29]:
+        for pageid in range(1003):
             driver.find_element_by_id("txtPageGoTo").clear()
-            driver.find_element_by_id("txtPageGoTo").send_keys(str(pageid))
+            driver.find_element_by_id("txtPageGoTo").send_keys(str(pageid + 1))
             driver.find_element_by_id("imgbtnGo").click()
-            print pageid
+            print pageid + 1
             html_doc = driver.page_source
             soup = BeautifulSoup(html_doc)
-            self.getlist(soup, fput)
+            self.getlist(soup, fput, pageid)
         fput.close()
 
     def is_element_present(self, how, what):
