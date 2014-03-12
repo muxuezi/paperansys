@@ -72,17 +72,27 @@ class JurnalName(unittest.TestCase):
             j += 1
 
     def test_jurnal_name(self):
-        fput = open('jurnalinfo.txt', 'wb+')
+        fput = open('jurnalinfo.txt', 'wb')
         driver = self.driver
         link = self.base_url + \
             "/kns/oldnavi/n_list.aspx?NaviID=1&Field=cykm%24%25&DisplayMode=%u8be6%u7ec6%u65b9%u5f0f"
         driver.get(link)
-        # for pageid in [19, 25, 29]:
-        for pageid in range(1003):
+        # can't input 1000 page
+        # 999 before
+        for pageid in range(993,999):
             driver.find_element_by_id("txtPageGoTo").clear()
-            driver.find_element_by_id("txtPageGoTo").send_keys(str(pageid + 1))
+            driver.find_element_by_id("txtPageGoTo").send_keys(str(pageid+1))
             driver.find_element_by_id("imgbtnGo").click()
-            print pageid + 1
+            print pageid+1
+            html_doc = driver.page_source
+            soup = BeautifulSoup(html_doc)
+            self.getlist(soup, fput, pageid)
+        # 1000 later
+        driver.find_element_by_id("txtPageGoTo").send_keys('999')
+        driver.find_element_by_id("imgbtnGo").click()
+        for pageid in range(999,1004):
+            driver.find_element_by_id("lbNextPage").click()
+            print pageid+1
             html_doc = driver.page_source
             soup = BeautifulSoup(html_doc)
             self.getlist(soup, fput, pageid)
