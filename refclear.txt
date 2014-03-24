@@ -1,0 +1,1661 @@
+Zhong-Shan Deng Cryobiology 2005 50 2
+Record 1 of 30
+Title: A novel approach to improve the efficacy of tumour ablation during cryosurgery
+Author(s): Ramajayam, KK (Ramajayam, Krishna Kumar); Kumar, A (Kumar, Amitesh)
+Source: CRYOBIOLOGY  Volume: 67  Issue: 2  Pages: 201-213  DOI: 10.1016/j.cryobiol.2013.06.013  Published: OCT 2013
+ISSN: 0011-2240
+Record 2 of 30
+Title: Fundamental experiments and numerical investigation of cryo-freezing incorporating vascular network with enhanced nano-freezing
+Author(s): Chua, KJ (Chua, K. J.)
+Source: INTERNATIONAL JOURNAL OF THERMAL SCIENCES  Volume: 70  Pages: 17-31  DOI: 10.1016/j.ijthermalsci.2013.03.019  Published: AUG 2013
+ISSN: 1290-0729
+Record 3 of 30
+Title: Alternative cooling and heating as a novel minimally invasive approach for treating obesity
+Author(s): Sun, ZQ (Sun, Zi-Qiao); Yang, Y (Yang, Yang); Liu, J (Liu, Jing)
+Source: INTERNATIONAL JOURNAL OF THERMAL SCIENCES  Volume: 64  Pages: 29-39  DOI: 10.1016/j.ijthermalsci.2012.08.003  Published: FEB 2013
+ISSN: 1290-0729
+Record 4 of 30
+Title: RECENT ADVANCES IN MODELING AND COMPUTING THE THREE-DIMENSIONAL BIOHEAT TRANSFER WITH PHASE CHANGE IN CRYOSURGICAL ABLATION OF TUMOR TISSUES
+Author(s): Deng, ZS (Deng, Zhong-Shan); Liu, J (Liu, Jing)
+Source: HEAT TRANSFER RESEARCH  Volume: 44  Issue: 3-4  Pages: 273-302  Published: 2013
+ISSN: 1064-2285
+Record 5 of 30
+Title: Numerical prediction of the intracellular ice formation zone during cryosurgery on a nodular basal cell carcinoma using liquid nitrogen spray
+Author(s): Sun, F (Sun, F.); Martinez-Suastegui, L (Martinez-Suastegui, L.); Wang, GX (Wang, G. -X.); Kelly, KM (Kelly, K. M.); Aguilar, G (Aguilar, G.)
+Source: INTERNATIONAL JOURNAL OF SPRAY AND COMBUSTION DYNAMICS  Volume: 4  Issue: 4  Pages: 341-379  Published: DEC 2012
+ISSN: 1756-8277
+Record 6 of 30
+Title: Uncertainty and sensitivity analysis of properties of phase change micro/nanoparticles for thermal protection during cryosurgery
+Author(s): Lv, YG (Lv, Yonggang); Zou, Y (Zou, Yang); Yang, L (Yang, Li)
+Source: FORSCHUNG IM INGENIEURWESEN-ENGINEERING RESEARCH  Volume: 76  Issue: 1-2  Pages: 41-50  DOI: 10.1007/s10010-012-0153-z  Published: JUN 2012
+ISSN: 0015-7899
+Record 7 of 30
+Title: Theoretical model for thermal protection by microencapsulated phase change micro/nanoparticles during hyperthermia
+Author(s): Lv, YG (Lv, Yonggang); Zou, Y (Zou, Yang); Yang, L (Yang, Li)
+Source: HEAT AND MASS TRANSFER  Volume: 48  Issue: 4  Pages: 573-584  DOI: 10.1007/s00231-011-0907-4  Published: APR 2012
+ISSN: 0947-7411
+Record 8 of 30
+Title: HEATING EFFECT OF THERMALLY SIGNIFICANT BLOOD VESSELS IN PERFUSED TUMOR TISSUE DURING CRYOSURGERY
+Author(s): Liu, ZF (Liu, Z. F.); Zhao, G (Zhao, G.); Cheng, YH (Cheng, Y. H.); Gao, DY (Gao, D. Y.)
+Source: JOURNAL OF MECHANICS IN MEDICINE AND BIOLOGY  Volume: 12  Issue: 1  Article Number: 1250019  DOI: 10.1142/S0219519411004575  Published: MAR 2012
+ISSN: 0219-5194
+Record 9 of 30
+Title: In Vivo Experiments and Numerical Investigations on Nanocryosurgical Freezing of Target Tissues with Large Blood Vessels
+Author(s): Sun, ZQ (Sun, Zi-Qiao); Yang, Y (Yang, Yang); Liu, J (Liu, Jing)
+Source: JOURNAL OF BIOMEDICAL NANOTECHNOLOGY  Volume: 8  Issue: 1  Pages: 10-18  DOI: 10.1166/jbn.2012.1362  Published: FEB 2012
+ISSN: 1550-7033
+Record 10 of 30
+Title: NUMERICAL SIMULATION ON HEAT TRANSFER IN A NOVEL COMBINED THERAPY OF NANO-CRYOSURGERY AND RF HYPERTHERMIA
+Author(s): Deng, ZS (Deng, Zhong-Shan); Liu, J (Liu, Jing)
+Source: PROCEEDINGS OF THE ASME MICRO/NANOSCALE HEAT AND MASS TRANSFER INTERNATIONAL CONFERENCE, 2012  Pages: 955-959  Published: 2012
+ISBN: 978-0-7918-5477-8
+Record 11 of 30
+Title: NANO-CRYOSURGERY TO TACKLE THE DEFICIENCY IN CONVENTIONAL FREEZING OF TUMORS WITH LARGE BLOOD VESSELS
+Author(s): Deng, ZS (Deng, Zhong-Shan); Liu, J (Liu, Jing)
+Source: PROCEEDINGS OF THE ASME INTERNATIONAL MECHANICAL ENGINEERING CONGRESS AND EXPOSITION 2010, VOL 2  Pages: 215-220  Published: 2012
+ISBN: 978-0-7918-4426-7
+Record 12 of 30
+Title: Numerical study of the solidification process in biological tissue with blood flow and metabolism effects by the dual phase lag model
+Author(s): Moradi, A (Moradi, Amir); Ahmadikia, H (Ahmadikia, Hossein)
+Source: PROCEEDINGS OF THE INSTITUTION OF MECHANICAL ENGINEERS PART H-JOURNAL OF ENGINEERING IN MEDICINE  Volume: 226  Issue: H5  Pages: 406-416  DOI: 10.1177/0954411912441305  Published: 2012
+ISSN: 0954-4119
+Record 13 of 30
+Title: Feasibility study for thermal protection by microencapsulated phase change micro/nanoparticles during cryosurgery
+Author(s): Lv, YG (Lv, Yonggang); Zou, Y (Zou, Yang); Yang, L (Yang, Li)
+Source: CHEMICAL ENGINEERING SCIENCE  Volume: 66  Issue: 17  Pages: 3941-3953  DOI: 10.1016/j.ces.2011.05.031  Published: SEP 1 2011
+ISSN: 0009-2509
+Record 14 of 30
+Title: THREE-DIMENSIONAL NUMERICAL STUDY ON FREEZING PHASE CHANGE HEAT TRANSFER IN BIOLOGICAL TISSUE EMBEDDED WITH TWO CRYOPROBES
+Author(s): Zhao, F (Zhao, Fang); Chen, ZQ (Chen, Zhenqian); Shi, MH (Shi, Mingheng)
+Source: PROCEEDINGS OF THE ASME/JSME 8TH THERMAL ENGINEERING JOINT CONFERENCE 2011, VOL 1 PTS A AND B  Pages: 79-86  Published: 2011
+ISBN: 978-0-7918-5454-9
+Record 15 of 30
+Title: Cell death along single microfluidic channel after freeze-thaw treatments
+Author(s): Li, YH (Li, Yuhui); Wang, F (Wang, Fen); Wang, H (Wang, Hao)
+Source: BIOMICROFLUIDICS  Volume: 4  Issue: 1  Article Number: 014111  DOI: 10.1063/1.3324869  Published: MAR 2010
+ISSN: 1932-1058
+Record 16 of 30
+Title: Fundamental solutions to the bioheat equation and their application to magnetic fluid hyperthermia
+Author(s): Giordano, MA (Giordano, Mauricio A.); Gutierrez, G (Gutierrez, Gustavo); Rinaldi, C (Rinaldi, Carlos)
+Source: INTERNATIONAL JOURNAL OF HYPERTHERMIA  Volume: 26  Issue: 5  Pages: 475-484  DOI: 10.3109/02656731003749643  Published: 2010
+ISSN: 0265-6736
+Record 17 of 30
+Title: Dimensionless solutions and general characteristics of bioheat transfer during thermal therapy
+Author(s): Okajima, J (Okajima, Junnosuke); Maruyama, S (Maruyama, Shigenao); Takeda, H (Takeda, Hiroki); Komiya, A (Komiya, Atsuki)
+Source: JOURNAL OF THERMAL BIOLOGY  Volume: 34  Issue: 8  Pages: 377-384  DOI: 10.1016/j.jtherbio.2009.08.001  Published: DEC 2009
+ISSN: 0306-4565
+Record 18 of 30
+Title: Nano-Cryosurgery: Advances and Challenges
+Author(s): Liu, J (Liu, Jing); Deng, ZS (Deng, Zhong-Shan)
+Source: JOURNAL OF NANOSCIENCE AND NANOTECHNOLOGY  Volume: 9  Issue: 8  Pages: 4521-4542  DOI: 10.1166/jnn.2009.1264  Published: AUG 2009
+ISSN: 1533-4880
+Record 19 of 30
+Title: Simulation of heat transfer of biological tissue during cryosurgery based on vascular trees
+Author(s): Shi, J (Shi, Juan); Chen, ZQ (Chen, Zhenqian); Shi, MH (Shi, Mingheng)
+Source: APPLIED THERMAL ENGINEERING  Volume: 29  Issue: 8-9  Pages: 1792-1798  DOI: 10.1016/j.applthermaleng.2008.08.014  Published: JUN 2009
+ISSN: 1359-4311
+Record 20 of 30
+Title: Numerical study on freezing-thawing phase change heat transfer in biological tissue embedded with two cryoprobes
+Author(s): Zhao, F (Zhao Fang); Chen, ZQ (Chen Zhen-qian); Shi, MH (Shi Ming-heng)
+Source: JOURNAL OF CENTRAL SOUTH UNIVERSITY OF TECHNOLOGY  Volume: 16  Issue: 2  Pages: 326-331  DOI: 10.1007/s11771-009-0055-x  Published: APR 2009
+ISSN: 1005-9784
+Record 21 of 30
+Title: Characterization of the nanocryosurgical freezing process through modifying Mazur's model
+Author(s): Yan, JF (Yan, Jing-Fu); Liu, J (Liu, Jing)
+Source: JOURNAL OF APPLIED PHYSICS  Volume: 103  Issue: 8  Article Number: 084311  DOI: 10.1063/1.2910676  Published: APR 15 2008
+ISSN: 0021-8979
+Record 22 of 30
+Title: Particularities of tissue types in treatment planning of nano cryosurgery
+Author(s): Sun, ZQ (Sun, Zi-Qiao); Yan, JF (Yan, Jing-Fu); Rao, W (Rao, Wei); Liu, J (Liu, Jing)
+Source: 2008 3RD IEEE INTERNATIONAL CONFERENCE ON NANO/MICRO ENGINEERED AND MOLECULAR SYSTEMS, VOLS 1-3  Pages: 885-889  Published: 2008
+ISBN: 978-1-4244-1907-4
+Record 23 of 30
+Title: Numerical study on the effect of blood flow and tissue characteristics on freezing front propagation during cryosurgery
+Author(s): Mone, MR (Mone, M. R.); Sandilya, P (Sandilya, P.)
+Source: CRYOGENICS AND REFRIGERATION, PROCEEDINGS  Pages: 892-896  Published: 2008
+ISBN: 978-7-03-021270-2
+Record 24 of 30
+Title: UNCERTAINTY ANALYSIS IN BIOHEAT TRANSFER MODELING FOR TREATMENT PLANNING OF NANO-CRYOSURGERY
+Author(s): Deng, ZS (Deng, Zhong-Shan); Liu, J (Liu, Jing)
+Source: MicroNano2008-2nd International Conference on Integration and Commercialization of Micro and Nanosystems, Proceedings  Pages: 411-412  DOI: 10.1115/MicroNano2008-70269  Published: 2008
+ISBN: 978-0-7918-4294-2
+Record 25 of 30
+Title: Nano-cryosurgery: A basic way to enhance freezing treatment of tumor
+Author(s): Liu, J (Liu, Jing); Yan, JF (Yan, Jing-Fu); Deng, ZS (Deng, Zhong-Shan)
+Source: PROCEEDINGS OF THE ASME INTERNATIONAL MECHANICAL ENGINEERING CONGRESS AND EXPOSITION 2007, VOL 2: BIOMEDICAL AND BIOTECHNOLOGY ENGINEERING  Pages: 87-94  Published: 2008
+ISBN: 978-0-7918-4296-6
+Record 26 of 30
+Title: Comparative study of the cryosurgical processes with two different cryosurgical systems: The endocare cryoprobe system versus the novel combined cryosurgery and hyperthermia system
+Author(s): Zhao, G (Zhao, G.); Luo, DW (Luo, D. W.); Liu, ZF (Liu, Z. F.); Gao, DY (Gao, D. Y.)
+Source: LATIN AMERICAN APPLIED RESEARCH  Volume: 37  Issue: 3  Pages: 215-222  Published: JUL 2007
+ISSN: 0327-0793
+Record 27 of 30
+Title: Effect of blood flow and metabolism on multidimensional heat transfer during cryosurgery
+Author(s): Zhao, G (Zhao, Gang); Zhang, HF (Zhang, Hai-Feng); Guo, XJ (Guo, Xiao-Jie); Luo, DW (Luo, Da-Wei); Gao, DY (Gao, Da-Yong)
+Source: MEDICAL ENGINEERING & PHYSICS  Volume: 29  Issue: 2  Pages: 205-215  DOI: 10.1016/j.medengphy.2006.03.005  Published: MAR 2007
+ISSN: 1350-4533
+Record 28 of 30
+Title: Stationary heat transfer in a multiprobe cryosurgery system
+Author(s): Zhmakin, AI (Zhmakin, A. I.); Ofengeim, DK (Ofengeim, D. Kh.)
+Source: TECHNICAL PHYSICS LETTERS  Volume: 32  Issue: 9  Pages: 765-767  DOI: 10.1134/S1063785006090094  Published: SEP 2006
+ISSN: 1063-7850
+Record 29 of 30
+Title: Numerical simulation of tissue freezing by liquid nitrogen based cryoprobe
+Author(s): Zhang, AL (Zhang, Aili); Luo, XD (Luo, Xiaodong); Chen, C (Chen, Chao); He, LQ (He, Liqun); Xu, LX (Xu, Lisa X.)
+Source: CRYOLETTERS  Volume: 27  Issue: 4  Pages: 243-252  Published: JUL-AUG 2006
+ISSN: 0143-2044
+Record 30 of 30
+Title: Modeling the heat transfer problem for the novel combined cryosurgery and hyperthermia system
+Author(s): Zhao, G (Zhao, G); Bai, XF (Bai, XF); Lu, DW (Lu, DW); Gao, DY (Gao, DY)
+Source: CRYOLETTERS  Volume: 27  Issue: 2  Pages: 115-126  Published: MAR-APR 2006
+ISSN: 0143-2044
+Yong-Gang Lv IEEE Transactions on Nanobioscience 2005 4 4
+Record 1 of 46
+Title: Practical considerations for maximizing heat production in a novel thermobrachytherapy seed prototype
+Author(s): Gautam, B (Gautam, Bhoj); Warrell, G (Warrell, Gregory); Shvydka, D (Shvydka, Diana); Subramanian, M (Subramanian, Manny); Parsai, EI (Parsai, E. Ishmael)
+Source: MEDICAL PHYSICS  Volume: 41  Issue: 2  Article Number: 023301  DOI: 10.1118/1.4860661  Published: FEB 2014
+ISSN: 0094-2405
+Record 2 of 46
+Title: Analysis of the Distribution of Magnetic Fluid inside Tumors by a Giant Magnetoresistance Probe
+Author(s): Gooneratne, CP (Gooneratne, Chinthaka P.); Kurnicki, A (Kurnicki, Adam); Yamada, S (Yamada, Sotoshi); Mukhopadhyay, SC (Mukhopadhyay, Subhas C.); Kosel, J (Kosel, Juergen)
+Source: PLOS ONE  Volume: 8  Issue: 11  Article Number: e81227  DOI: 10.1371/journal.pone.0081227  Published: NOV 29 2013
+ISSN: 1932-6203
+Record 3 of 46
+Title: Statistical modeling of electrode based thermal therapy with Taguchi based multiple regression
+Author(s): Jamil, M (Jamil, Muhammad); Ng, EYK (Ng, E. Y. K.)
+Source: INTERNATIONAL JOURNAL OF THERMAL SCIENCES  Volume: 71  Pages: 283-291  DOI: 10.1016/j.ijthermalsci.2013.03.014  Published: SEP 2013
+ISSN: 1290-0729
+Record 4 of 46
+Title: To optimize the efficacy of bioheat transfer in capacitive hyperthermia: A physical perspective
+Author(s): Jamil, M (Jamil, Muhammad); Ng, EYK (Ng, E. Y. K.)
+Source: JOURNAL OF THERMAL BIOLOGY  Volume: 38  Issue: 5  Pages: 272-279  DOI: 10.1016/j.jtherbio.2013.03.007  Published: JUL 2013
+ISSN: 0306-4565
+Record 5 of 46
+Title: Evaluation of meshless radial basis collocation method (RBCM) for heterogeneous conduction and simulation of temperature inside the biological tissues
+Author(s): Jamil, M (Jamil, Muhammad); Ng, EYK (Ng, E. Y. K.)
+Source: INTERNATIONAL JOURNAL OF THERMAL SCIENCES  Volume: 68  Pages: 42-52  DOI: 10.1016/j.ijthermalsci.2013.01.007  Published: JUN 2013
+ISSN: 1290-0729
+Record 6 of 46
+Title: MicroCT image-generated tumour geometry and SAR distribution for tumour temperature elevation simulations in magnetic nanoparticle hyperthermia
+Author(s): LeBrun, A (LeBrun, Alexander); Manuchehrabadi, N (Manuchehrabadi, Navid); Attaluri, A (Attaluri, Anilchandra); Wang, F (Wang, Frank); Ma, RH (Ma, Ronghui); Zhu, L (Zhu, Liang)
+Source: INTERNATIONAL JOURNAL OF HYPERTHERMIA  Volume: 29  Issue: 8  Pages: 730-738  DOI: 10.3109/02656736.2013.836757  Published: 2013
+ISSN: 0265-6736
+Record 7 of 46
+Title: Ranking of parameters in bioheat transfer using Taguchi analysis
+Author(s): Jamil, M (Jamil, Muhammad); Ng, EYK (Ng, E. Y. K.)
+Source: INTERNATIONAL JOURNAL OF THERMAL SCIENCES  Volume: 63  Pages: 15-21  DOI: 10.1016/j.ijthermalsci.2012.07.002  Published: JAN 2013
+ISSN: 1290-0729
+Record 8 of 46
+Title: In vitro cytotoxicity of Selol-loaded magnetic nanocapsules against neoplastic cell lines under AC magnetic field activation
+Author(s): Falqueiro, AM (Falqueiro, A. M.); Siqueira-Moura, MP (Siqueira-Moura, M. P.); Jardim, DR (Jardim, D. R.); Primo, FL (Primo, F. L.); Morais, PC (Morais, P. C.); Mosiniewicz-Szablewska, E (Mosiniewicz-Szablewska, E.); Suchocki, P (Suchocki, P.); Tedesco, AC (Tedesco, A. C.)
+Source: JOURNAL OF APPLIED PHYSICS  Volume: 111  Issue: 7  Article Number: 07B335  DOI: 10.1063/1.3680541  Published: APR 1 2012
+ISSN: 0021-8979
+Record 9 of 46
+Title: Theoretical model for thermal protection by microencapsulated phase change micro/nanoparticles during hyperthermia
+Author(s): Lv, YG (Lv, Yonggang); Zou, Y (Zou, Yang); Yang, L (Yang, Li)
+Source: HEAT AND MASS TRANSFER  Volume: 48  Issue: 4  Pages: 573-584  DOI: 10.1007/s00231-011-0907-4  Published: APR 2012
+ISSN: 0947-7411
+Record 10 of 46
+Title: Dosimetric and thermal properties of a newly developed thermobrachytherapy seed with ferromagnetic core for treatment of solid tumors
+Author(s): Gautam, B (Gautam, Bhoj); Parsai, EI (Parsai, E. Ishmael); Shvydka, D (Shvydka, Diana); Feldmeier, J (Feldmeier, John); Subramanian, M (Subramanian, Manny)
+Source: MEDICAL PHYSICS  Volume: 39  Issue: 4  Pages: 1980-1990  DOI: 10.1118/1.3693048  Published: APR 2012
+ISSN: 0094-2405
+Record 11 of 46
+Title: NUMERICAL SIMULATION ON HEAT TRANSFER IN A NOVEL COMBINED THERAPY OF NANO-CRYOSURGERY AND RF HYPERTHERMIA
+Author(s): Deng, ZS (Deng, Zhong-Shan); Liu, J (Liu, Jing)
+Source: PROCEEDINGS OF THE ASME MICRO/NANOSCALE HEAT AND MASS TRANSFER INTERNATIONAL CONFERENCE, 2012  Pages: 955-959  Published: 2012
+ISBN: 978-0-7918-5477-8
+Record 12 of 46
+Title: ENHANCEMENT OF RF ABLATION BY COMBINED USE OF ULTRA-LOW TEMPERATURE FLUID COOLING AND MAGNETIC NANOPARTICLES
+Author(s): Deng, ZS (Deng, Zhong-Shan); Liu, J (Liu, Jing)
+Source: PROCEEDINGS OF THE ASME INTERNATIONAL MECHANICAL ENGINEERING CONGRESS AND EXPOSITION 2010, VOL 2  Pages: 209-213  Published: 2012
+ISBN: 978-0-7918-4426-7
+Record 13 of 46
+Title: Diffusion of magnetic nanoparticles in a multi-site injection process within a biological tissue during magnetic fluid hyperthermia using lattice Boltzmann method
+Author(s): Golneshan, AA (Golneshan, Ali Akbar); Lahonian, M (Lahonian, Mansour)
+Source: MECHANICS RESEARCH COMMUNICATIONS  Volume: 38  Issue: 6  Pages: 425-430  DOI: 10.1016/j.mechrescom.2011.05.012  Published: SEP 2011
+ISSN: 0093-6413
+Record 14 of 46
+Title: Feasibility study for thermal protection by microencapsulated phase change micro/nanoparticles during cryosurgery
+Author(s): Lv, YG (Lv, Yonggang); Zou, Y (Zou, Yang); Yang, L (Yang, Li)
+Source: CHEMICAL ENGINEERING SCIENCE  Volume: 66  Issue: 17  Pages: 3941-3953  DOI: 10.1016/j.ces.2011.05.031  Published: SEP 1 2011
+ISSN: 0009-2509
+Record 15 of 46
+Title: Research on modeling of magnetic fluid hyperthermia
+Author(s): Dolega, DM (Dolega, Dagmara M.)
+Source: 2011 E-HEALTH AND BIOENGINEERING CONFERENCE (EHB)  Published: 2011
+ISBN: 978-1-4577-0292-1
+Record 16 of 46
+Title: Identification of electromagnetic field parameters assuring the cancer destruction during hyperthermia treatment
+Author(s): Majchrzak, E (Majchrzak, E.); Paruch, M (Paruch, M.)
+Source: INVERSE PROBLEMS IN SCIENCE AND ENGINEERING  Volume: 19  Issue: 1  Special Issue: SI  Pages: 45-58  DOI: 10.1080/17415977.2010.531473  Published: 2011
+ISSN: 1741-5977
+Record 17 of 46
+Title: Using MicroCT Imaging Technique to Quantify Heat Generation Distribution Induced by Magnetic Nanoparticles for Cancer Treatments
+Author(s): Attaluri, A (Attaluri, Anilchandra); Ma, RH (Ma, Ronghui); Zhu, LA (Zhu, Liang)
+Source: JOURNAL OF HEAT TRANSFER-TRANSACTIONS OF THE ASME  Volume: 133  Issue: 1  Special Issue: SI  Article Number: 011003  DOI: 10.1115/1.4002225  Published: JAN 2011
+ISSN: 0022-1481
+Record 18 of 46
+Title: Modeling of tumor's tissue heating by nanoparticles
+Author(s): Fasla, B (Fasla, Badia); Benmouna, R (Benmouna, Reda); Benmouna, M (Benmouna, Mustapha)
+Source: JOURNAL OF APPLIED PHYSICS  Volume: 108  Issue: 12  Article Number: 124703  DOI: 10.1063/1.3525089  Published: DEC 15 2010
+ISSN: 0021-8979
+Record 19 of 46
+Title: Numerical Solution of Dual Phase Lag Model of Bioheat Transfer Using the General Boundary Element Method
+Author(s): Majchrzak, E (Majchrzak, Ewa)
+Source: CMES-COMPUTER MODELING IN ENGINEERING & SCIENCES  Volume: 69  Issue: 1  Pages: 43-60  Published: NOV 2010
+ISSN: 1526-1492
+Record 20 of 46
+Title: Heat transfer-A review of 2005 literature
+Author(s): Goldstein, RJ (Goldstein, R. J.); Ibele, WE (Ibele, W. E.); Patankar, SV (Patankar, S. V.); Simon, TW (Simon, T. W.); Kuehn, TH (Kuehn, T. H.); Strykowski, PJ (Strykowski, P. J.); Tamma, KK (Tamma, K. K.); Heberlein, JVR (Heberlein, J. V. R.); Davidson, JH (Davidson, J. H.); Bischof, J (Bischof, J.); Kulacki, FA (Kulacki, F. A.); Kortshagen, U (Kortshagen, U.); Garrick, S (Garrick, S.); Srinivasan, V (Srinivasan, V.); Ghosh, K (Ghosh, K.); Mittal, R (Mittal, R.)
+Source: INTERNATIONAL JOURNAL OF HEAT AND MASS TRANSFER  Volume: 53  Issue: 21-22  Pages: 4397-4447  DOI: 10.1016/j.ijheatmasstransfer.2010.05.005  Published: OCT 2010
+ISSN: 0017-9310
+Record 21 of 46
+Title: Heating of magnetic fluid systems driven by circularly polarized magnetic field
+Author(s): Ahsen, OO (Ahsen, Osman O.); Yilmaz, U (Yilmaz, Ugur); Aksoy, MD (Aksoy, M. Deniz); Ertas, G (Ertas, Gulay); Atalar, E (Atalar, Ergin)
+Source: JOURNAL OF MAGNETISM AND MAGNETIC MATERIALS  Volume: 322  Issue: 20  Pages: 3053-3059  DOI: 10.1016/j.jmmm.2010.05.028  Published: OCT 2010
+ISSN: 0304-8853
+Record 22 of 46
+Title: Monte-Carlo Simulation on Gold Nanoshells Enhanced Laser Interstitial Thermal Therapy on Target Tumor
+Author(s): Wang, X (Wang, Xin); Gao, X (Gao, Xiang); Liu, J (Liu, Jing)
+Source: JOURNAL OF COMPUTATIONAL AND THEORETICAL NANOSCIENCE  Volume: 7  Issue: 6  Pages: 1025-1031  DOI: 10.1166/jctn.2010.1448  Published: JUN 2010
+ISSN: 1546-1955
+Record 23 of 46
+Title: Model for Hyperthermia with Arrays of Magnetic Nanoparticles: Spatial and Time Temperature Distributions in Tumor
+Author(s): Zablotskii, V (Zablotskii, Vitalii); Lunov, O (Lunov, Oleg); Gomez-Polo, C (Gomez-Polo, Cristina)
+Source: JOURNAL OF NANOSCIENCE AND NANOTECHNOLOGY  Volume: 10  Issue: 2  Pages: 690-695  DOI: 10.1166/jnn.2010.1806  Published: FEB 2010
+ISSN: 1533-4880
+Record 24 of 46
+Title: On the optimal choice of the exposure conditions and the nanoparticle features in magnetic nanoparticle hyperthermia
+Author(s): Bellizzi, G (Bellizzi, Gennaro); Bucci, OM (Bucci, Ovidio M.)
+Source: INTERNATIONAL JOURNAL OF HYPERTHERMIA  Volume: 26  Issue: 4  Pages: 389-403  DOI: 10.3109/02656730903514685  Published: 2010
+ISSN: 0265-6736
+Record 25 of 46
+Title: MULTI-SCALE SIMULATION OF NANOPARTICLE TRANSPORT AND DEPOSITION IN TISSUE DURING A NANOFLUID INJECTION PROCESS
+Author(s): Su, D (Su, Di); Ma, RH (Ma, Ronghui); Zhu, LA (Zhu, Liang); Salloum, M (Salloum, Maher)
+Source: MNHMT2009, VOL 2  Pages: 599-606  Published: 2010
+ISBN: 978-0-7918-4390-1
+Record 26 of 46
+Title: Computational Modeling of Electromagnetically Induced Heating of Magnetic Nanoparticle Materials for Hyperthermic Cancer Treatment
+Author(s): Rast, L (Rast, L.); Harrison, JG (Harrison, J. G.)
+Source: PIERS 2010 CAMBRIDGE: PROGRESS IN ELECTROMAGNETICS RESEARCH SYMPOSIUM PROCEEDINGS, VOLS 1 AND 2  Book Series: Progress in Electromagnetics Research Symposium  Pages: 910-914  Published: 2010
+ISSN: 1559-9450
+ISBN: 978-1-934142-14-1
+Record 27 of 46
+Title: Quantification of Nanoparticle Distribution in Tissue after Direct Injection Using MicroCT Imaging
+Author(s): Attaluri, A (Attaluri, Anilchandra); Ma, RH (Ma, Ronghui); Zhu, L (Zhu, Liang)
+Source: PROCEEDINGS OF THE ASME INTERNATIONAL HEAT TRANSFER CONFERENCE - 2010, VOL 1: BIO HEAT TRANSFER, BOILING HEAT TRANSFER, COMPUTATIONAL HEAT TRANSFER  Pages: 15-19  Published: 2010
+ISBN: 978-0-7918-4936-1
+Record 28 of 46
+Title: Complex mathematical models of biology at the nanoscale
+Author(s): Bewick, S (Bewick, Sharon); Yang, RT (Yang, Ruoting); Zhang, MJ (Zhang, Mingjun)
+Source: WILEY INTERDISCIPLINARY REVIEWS-NANOMEDICINE AND NANOBIOTECHNOLOGY  Volume: 1  Issue: 6  Pages: 650-659  DOI: 10.1002/wnan.61  Published: NOV-DEC 2009
+ISSN: 1939-5116
+Record 29 of 46
+Title: Three-Dimensional Model for Determining Inhomogeneous Thermal Dosage in a Liver Tumor During Arterial Embolization Hyperthermia Incorporating Magnetic Nanoparticles
+Author(s): Xu, RZ (Xu, Ruizhi); Yu, H (Yu, Hui); Zhang, Y (Zhang, Yu); Ma, M (Ma, Ming); Chen, ZP (Chen, Zhongping); Wang, CL (Wang, Changling); Teng, GJ (Teng, Gaojun); Ma, J (Ma, Jun); Sun, XC (Sun, Xinchen); Gu, N (Gu, Ning)
+Source: IEEE TRANSACTIONS ON MAGNETICS  Volume: 45  Issue: 8  Pages: 3085-3091  DOI: 10.1109/TMAG.2009.2019128  Published: AUG 2009
+ISSN: 0018-9464
+Record 30 of 46
+Title: Nano-Cryosurgery: Advances and Challenges
+Author(s): Liu, J (Liu, Jing); Deng, ZS (Deng, Zhong-Shan)
+Source: JOURNAL OF NANOSCIENCE AND NANOTECHNOLOGY  Volume: 9  Issue: 8  Pages: 4521-4542  DOI: 10.1166/jnn.2009.1264  Published: AUG 2009
+ISSN: 1533-4880
+Record 31 of 46
+Title: Magnetic Heating by Tunable Arrays of Nanoparticles in Cancer Therapy
+Author(s): Zablotskii, V (Zablotskii, V.); Lunov, O (Lunov, O.); Gomez-Plo, C (Gomez-Plo, C.)
+Source: ACTA PHYSICA POLONICA A  Volume: 115  Issue: 1  Pages: 413-417  Published: JAN 2009
+ISSN: 0587-4246
+Record 32 of 46
+Title: EXPERIMENTAL AND COMPUTATIONAL STUDY OF NANOPARTICLE TRANSPORT IN AGAROSE GEL
+Author(s): Su, D (Su, Di); Salloum, M (Salloum, Maher); Ma, RH (Ma, Ronghui); Zhu, L (Zhu, Liang)
+Source: HT2008: PROCEEDING OF THE ASME SUMMER HEAT TRANSFER CONFERENCE, VOL 3  Pages: 747-754  Published: 2009
+ISBN: 978-0-7918-4849-4
+Record 33 of 46
+Title: Solution to the bioheat equation for hyperthermia with La1-xAgyMnO3-nanoparticles: The effect of temperature autostabilization
+Author(s): Atsarkin, VA (Atsarkin, V. A.); Levkin, LV (Levkin, L. V.); Posvyanskiy, VS (Posvyanskiy, V. S.); Melnikov, OV (Melnikov, O. V.); Markelova, MN (Markelova, M. N.); Gorbenko, OY (Gorbenko, O. Yu.); Kaul, AR (Kaul, A. R.)
+Source: INTERNATIONAL JOURNAL OF HYPERTHERMIA  Volume: 25  Issue: 3  Pages: 240-247  Article Number:   DOI: 10.1080/02656730802713565  Published: 2009
+ISSN: 0265-6736
+Record 34 of 46
+Title: AN IN-VIVO EXPERIMENTAL STUDY OF TEMPERATURE ELEVATIONS IN ANIMAL TISSUE DURING MAGNETIC NANOPARTICLE HYPERTHERMIA
+Author(s): Salloum, M (Salloum, Maher); Ma, R (Ma, Ronghui); Zhu, L (Zhu, Liang)
+Source: PROCEEDINGS OF THE ASME SUMMER BIOENGINEERING CONFERENCE 2008, PTS A AND B  Pages: 251-252  Published: 2009
+ISBN: 978-0-7918-4321-5
+Record 35 of 46
+Title: Numerical Study on the Multi-Region Bio-Heat Equation to Model Magnetic Fluid Hyperthermia (MFH) Using Low Curie Temperature Nanoparticles
+Author(s): Zhang, CQ (Zhang, Chuanqian); Johnson, DT (Johnson, Duane T.); Brazel, CS (Brazel, Christopher S.)
+Source: IEEE TRANSACTIONS ON NANOBIOSCIENCE  Volume: 7  Issue: 4  Pages: 267-275  DOI: 10.1109/TNB.2008.2011857  Published: DEC 2008
+ISSN: 1536-1241
+Record 36 of 46
+Title: Controlling nanoparticle delivery in magnetic nanoparticle hyperthermia for cancer treatment: Experimental study in agarose gel
+Author(s): Salloum, M (Salloum, M.); Ma, RH (Ma, R. H.); Weeks, D (Weeks, D.); Zhu, L (Zhu, L.)
+Source: INTERNATIONAL JOURNAL OF HYPERTHERMIA  Volume: 24  Issue: 4  Pages: 337-345  DOI: 10.1080/02656730801907937  Published: JUN 2008
+ISSN: 0265-6736
+Record 37 of 46
+Title: Nanocryosurgery and its mechanisms for enhancing freezing efficiency of tumor tissues
+Author(s): Yan, JF (Yan, Jing-Fu); Liu, J (Liu, Jing)
+Source: NANOMEDICINE-NANOTECHNOLOGY BIOLOGY AND MEDICINE  Volume: 4  Issue: 1  Pages: 79-87  DOI: 10.1016/j.nano.2007.11.002  Published: MAR 2008
+ISSN: 1549-9634
+Record 38 of 46
+Title: The modelling of heating a tissue subjected to external electromagnetic field
+Author(s): Majchrzak, E (Majchrzak, Ewa); Dziatkiewicz, G (Dziatkiewicz, Grzegorz); Paruch, M (Paruch, Marek)
+Source: ACTA OF BIOENGINEERING AND BIOMECHANICS  Volume: 10  Issue: 2  Pages: 29-37  Published: 2008
+ISSN: 1509-409X
+Record 39 of 46
+Title: An in-vivo experimental study of temperature elevations in animal tissue during magnetic nanoparticle hyperthermia
+Author(s): Salloum, M (Salloum, Maher); Ma, RH (Ma, Ronghui); Zhu, L (Zhu, Liang)
+Source: INTERNATIONAL JOURNAL OF HYPERTHERMIA  Volume: 24  Issue: 7  Pages: 589-601  DOI: 10.1080/02656730802203377  Published: 2008
+ISSN: 0265-6736
+Record 40 of 46
+Title: Tumor thermal ablation therapy using alkali metals as powerful self-heating seeds
+Author(s): Rao, W (Rao, Wei); Liu, J (Liu, Jing)
+Source: MINIMALLY INVASIVE THERAPY & ALLIED TECHNOLOGIES  Volume: 17  Issue: 1  Pages: 43-49  DOI: 10.1080/13645700701803826  Published: 2008
+ISSN: 1364-5706
+Record 41 of 46
+Title: Controlling nanoparticle delivery in hyperthermia for cancer treatment: In vitro experimental study
+Author(s): Salloum, M (Salloum, M.); Ma, R (Ma, R.); Zhu, L (Zhu, L.)
+Source: PROCEEDINGS OF THE ASME INTERNATIONAL MECHANICAL ENGINEERING CONGRESS AND EXPOSITION 2007, VOL 2: BIOMEDICAL AND BIOTECHNOLOGY ENGINEERING  Pages: 71-77  Published: 2008
+ISBN: 978-0-7918-4296-6
+Record 42 of 46
+Title: Nano-cryosurgery: A basic way to enhance freezing treatment of tumor
+Author(s): Liu, J (Liu, Jing); Yan, JF (Yan, Jing-Fu); Deng, ZS (Deng, Zhong-Shan)
+Source: PROCEEDINGS OF THE ASME INTERNATIONAL MECHANICAL ENGINEERING CONGRESS AND EXPOSITION 2007, VOL 2: BIOMEDICAL AND BIOTECHNOLOGY ENGINEERING  Pages: 87-94  Published: 2008
+ISBN: 978-0-7918-4296-6
+Record 43 of 46
+Title: Characterization of superparamagnetic MgxZn1-xFe2O4 powders
+Author(s): Kassabova-Zhetcheva, VD (Kassabova-Zhetcheva, Violeta D.); Pavlova, LP (Pavlova, Lilyana P.); Samuneva, BI (Samuneva, Bisserka I.); Cherkezova-Zheleva, ZP (Cherkezova-Zheleva, Zara P.); Mitov, IG (Mitov, Ivan G.); Mikhov, MT (Mikhov, Mikhail T.)
+Source: CENTRAL EUROPEAN JOURNAL OF CHEMISTRY  Volume: 5  Issue: 1  Pages: 107-117  DOI: 10.2478/s11532-006-0069-2  Published: MAR 2007
+ISSN: 1895-1066
+Record 44 of 46
+Title: Measurement of specific absorption rate and thermal simulation for arterial embolization hyperthermia in the Maghemite-Gelled model
+Author(s): Xu, RZ (Xu, Ruizhi); Zhang, Y (Zhang, Yu); Ma, M (Ma, Ming); Xia, JG (Xia, Jingguang); Liu, JW (Liu, Jiwei); Guo, QZ (Guo, Quanzhong); Gu, N (Gu, Ning)
+Source: IEEE TRANSACTIONS ON MAGNETICS  Volume: 43  Issue: 3  Pages: 1078-1085  DOI: 10.1109/TMAG.2006.888737  Published: MAR 2007
+ISSN: 0018-9464
+Record 45 of 46
+Title: Minimally invasive thermotherapy method for tumor treatment based on an exothermic chemical reaction
+Author(s): Deng, ZS (Deng, Zhong-Shan); Liu, J (Liu, Jing)
+Source: MINIMALLY INVASIVE THERAPY & ALLIED TECHNOLOGIES  Volume: 16  Issue: 6  Pages: 341-346  DOI: 10.1080/13645700701709494  Published: 2007
+ISSN: 1364-5706
+Record 46 of 46
+Title: Uncertainties in the micro/nano-particles induced hyperthermia treatment on tumor subject to external EM field
+Author(s): Deng, ZS (Deng, Zhong-Shan); Liu, J (Liu, Jing)
+Source: 2006 1st IEEE International Conference on Nano/Micro Engineered and Molecular Systems, Vols 1-3  Pages: 851-855  DOI: 10.1109/NEMS.2006.334910  Published: 2006
+ISBN: 978-1-4244-0139-0
+Liu, J MINIM INVASIV THER 2004 13 1 47
+Record 1 of 29
+Title: Anatomical model-based finite element analysis of the combined cryosurgical and hyperthermic ablation for knee bone tumor
+Author(s): He, ZZ (He, Zhi Zhu); Xue, X (Xue, Xu); Xiao, J (Xiao, Jian); Liu, J (Liu, Jing)
+Source: COMPUTER METHODS AND PROGRAMS IN BIOMEDICINE  Volume: 112  Issue: 3  Pages: 356-366  DOI: 10.1016/j.cmpb.2013.07.023  Published: DEC 2013
+ISSN: 0169-2607
+Record 2 of 29
+Title: Numerical Simulation of a New Probe for the Alternate Cooling and Heating of a Subcutaneous Mouse Tumor Model
+Author(s): Cai, ZH (Cai, Zhanghao); Song, MY (Song, Mingyang); Zhang, AL (Zhang, Aili); Sun, JQ (Sun, Jianqi); Xu, LXM (Xu, Lisa Xuemin)
+Source: NUMERICAL HEAT TRANSFER PART A-APPLICATIONS  Volume: 63  Issue: 7  Pages: 534-548  DOI: 10.1080/10407782.2013.742809  Published: APR 1 2013
+ISSN: 1040-7782
+Record 3 of 29
+Title: Alternative cooling and heating as a novel minimally invasive approach for treating obesity
+Author(s): Sun, ZQ (Sun, Zi-Qiao); Yang, Y (Yang, Yang); Liu, J (Liu, Jing)
+Source: INTERNATIONAL JOURNAL OF THERMAL SCIENCES  Volume: 64  Pages: 29-39  DOI: 10.1016/j.ijthermalsci.2012.08.003  Published: FEB 2013
+ISSN: 1290-0729
+Record 4 of 29
+Title: RECENT ADVANCES IN MODELING AND COMPUTING THE THREE-DIMENSIONAL BIOHEAT TRANSFER WITH PHASE CHANGE IN CRYOSURGICAL ABLATION OF TUMOR TISSUES
+Author(s): Deng, ZS (Deng, Zhong-Shan); Liu, J (Liu, Jing)
+Source: HEAT TRANSFER RESEARCH  Volume: 44  Issue: 3-4  Pages: 273-302  Published: 2013
+ISSN: 1064-2285
+Record 5 of 29
+Title: Numerical prediction of the intracellular ice formation zone during cryosurgery on a nodular basal cell carcinoma using liquid nitrogen spray
+Author(s): Sun, F (Sun, F.); Martinez-Suastegui, L (Martinez-Suastegui, L.); Wang, GX (Wang, G. -X.); Kelly, KM (Kelly, K. M.); Aguilar, G (Aguilar, G.)
+Source: INTERNATIONAL JOURNAL OF SPRAY AND COMBUSTION DYNAMICS  Volume: 4  Issue: 4  Pages: 341-379  Published: DEC 2012
+ISSN: 1756-8277
+Record 6 of 29
+Title: HEATING EFFECT OF THERMALLY SIGNIFICANT BLOOD VESSELS IN PERFUSED TUMOR TISSUE DURING CRYOSURGERY
+Author(s): Liu, ZF (Liu, Z. F.); Zhao, G (Zhao, G.); Cheng, YH (Cheng, Y. H.); Gao, DY (Gao, D. Y.)
+Source: JOURNAL OF MECHANICS IN MEDICINE AND BIOLOGY  Volume: 12  Issue: 1  Article Number: 1250019  DOI: 10.1142/S0219519411004575  Published: MAR 2012
+ISSN: 0219-5194
+Record 7 of 29
+Title: In Vivo Experiments and Numerical Investigations on Nanocryosurgical Freezing of Target Tissues with Large Blood Vessels
+Author(s): Sun, ZQ (Sun, Zi-Qiao); Yang, Y (Yang, Yang); Liu, J (Liu, Jing)
+Source: JOURNAL OF BIOMEDICAL NANOTECHNOLOGY  Volume: 8  Issue: 1  Pages: 10-18  DOI: 10.1166/jbn.2012.1362  Published: FEB 2012
+ISSN: 1550-7033
+Record 8 of 29
+Title: NUMERICAL SIMULATION ON HEAT TRANSFER IN A NOVEL COMBINED THERAPY OF NANO-CRYOSURGERY AND RF HYPERTHERMIA
+Author(s): Deng, ZS (Deng, Zhong-Shan); Liu, J (Liu, Jing)
+Source: PROCEEDINGS OF THE ASME MICRO/NANOSCALE HEAT AND MASS TRANSFER INTERNATIONAL CONFERENCE, 2012  Pages: 955-959  Published: 2012
+ISBN: 978-0-7918-5477-8
+Record 9 of 29
+Title: Design of A New Probe for Tumor Treatment in the Alternate Thermal System Based on Numerical Simulation
+Author(s): Cai, ZH (Cai, Zhanghao); Song, MY (Song, Mingyang); Sun, JQ (Sun, Jianqi); Zhang, AL (Zhang, Aili); Xu, LSX (Xu, Lisa X.)
+Source: 2011 ANNUAL INTERNATIONAL CONFERENCE OF THE IEEE ENGINEERING IN MEDICINE AND BIOLOGY SOCIETY (EMBC)  Book Series: IEEE Engineering in Medicine and Biology Society Conference Proceedings  Pages: 6874-6877  Published: 2011
+ISSN: 1557-170X
+ISBN: 978-1-4244-4122-8
+Record 10 of 29
+Title: Nano-Cryosurgery: Advances and Challenges
+Author(s): Liu, J (Liu, Jing); Deng, ZS (Deng, Zhong-Shan)
+Source: JOURNAL OF NANOSCIENCE AND NANOTECHNOLOGY  Volume: 9  Issue: 8  Pages: 4521-4542  DOI: 10.1166/jnn.2009.1264  Published: AUG 2009
+ISSN: 1533-4880
+Record 11 of 29
+Title: Higher-order coupled and uncoupled analyses of free edge effect in piezoelectric laminates under mechanical loadings
+Author(s): Tahani, M (Tahani, M.); Mirzababaee, M (Mirzababaee, M.)
+Source: MATERIALS & DESIGN  Volume: 30  Issue: 7  Pages: 2473-2482  DOI: 10.1016/j.matdes.2008.10.004  Published: AUG 2009
+ISSN: 0261-3069
+Record 12 of 29
+Title: Adjuvant Approaches to Enhance Cryosurgery
+Author(s): Goel, R (Goel, Raghav); Anderson, K (Anderson, Kyle); Slaton, J (Slaton, Joel); Schmidlin, F (Schmidlin, Franz); Vercellotti, G (Vercellotti, Greg); Belcher, J (Belcher, John); Bischof, JC (Bischof, John C.)
+Source: JOURNAL OF BIOMECHANICAL ENGINEERING-TRANSACTIONS OF THE ASME  Volume: 131  Issue: 7  Article Number: 074003  DOI: 10.1115/1.3156804  Published: JUL 2009
+ISSN: 0148-0731
+Record 13 of 29
+Title: Tumor Treatment System with Alternate Cooling and Heating - Preliminary Results in an Animal Model
+Author(s): Sun, JQ (Sun, J. Q.); Xu, CC (Xu, C. C.); Wei, GH (Wei, G. H.); Sun, XG (Sun, X. G.); Liu, P (Liu, P.); Zhang, AL (Zhang, A. L.); Xu, LX (Xu, L. X.)
+Source: WORLD CONGRESS ON MEDICAL PHYSICS AND BIOMEDICAL ENGINEERING, VOL 25, PT 6  Book Series: IFMBE Proceedings  Volume: 25  Pages: 337-340  Part: 6  Published: 2009
+ISSN: 1680-0737
+ISBN: 978-3-642-03905-8
+Record 14 of 29
+Title: Evaluation of alternate cooling and heating for tumor treatment
+Author(s): Sun, JQ (Sun, Jianqi); Zhang, AL (Zhang, Aili); Xu, LX (Xu, Lisa X.)
+Source: INTERNATIONAL JOURNAL OF HEAT AND MASS TRANSFER  Volume: 51  Issue: 23-24  Pages: 5478-5485  DOI: 10.1016/j.ijheatmasstransfer.2008.04.027  Published: NOV 2008
+ISSN: 0017-9310
+Record 15 of 29
+Title: Energy-based diagnostic and treatment techniques - Possible applications for early detection and treatment of breast cancer
+Author(s): Xu, LX (Xu, Lisa X.); Zhang, AL (Zhang, Aili); Liu, P (Liu, Ping); Chen, C (Chen, Chao); Sun, JQ (Sun, Jianqi); Sabados, DM (Sabados, Dawn M.)
+Source: IEEE ENGINEERING IN MEDICINE AND BIOLOGY MAGAZINE  Volume: 27  Issue: 5  Pages: 72-77  DOI: 10.1109/MEMB.2008.923960  Published: SEP-OCT 2008
+ISSN: 0739-5175
+Record 16 of 29
+Title: Study on tumor microvasculature damage induced by alternate cooling and heating
+Author(s): Shen, YY (Shen, Yuanyuan); Liu, P (Liu, Ping); Zhang, AL (Zhang, Aili); Xu, LX (Xu, Lisa X.)
+Source: ANNALS OF BIOMEDICAL ENGINEERING  Volume: 36  Issue: 8  Pages: 1409-1419  DOI: 10.1007/s10439-008-9511-2  Published: AUG 2008
+ISSN: 0090-6964
+Record 17 of 29
+Title: Disclosure of the significant thermal effects of large blood vessels during cryosurgery through infrared temperature mapping
+Author(s): Deng, ZS (Deng, Zhong-Shan); Liu, J (Liu, Jing); Wang, HW (Wang, Hong-Wu)
+Source: INTERNATIONAL JOURNAL OF THERMAL SCIENCES  Volume: 47  Issue: 5  Pages: 530-545  DOI: 10.1016/j.ijthermaisci.2007.05.007  Published: MAY 2008
+ISSN: 1290-0729
+Record 18 of 29
+Title: Numerical study on the effect of blood flow and tissue characteristics on freezing front propagation during cryosurgery
+Author(s): Mone, MR (Mone, M. R.); Sandilya, P (Sandilya, P.)
+Source: CRYOGENICS AND REFRIGERATION, PROCEEDINGS  Pages: 892-896  Published: 2008
+ISBN: 978-7-03-021270-2
+Record 19 of 29
+Title: Effects of exterior orientation elements on direct georeferencing in POS-supported aerial photogrammetry
+Author(s): Zhang, XP (Zhang, Xueping); Yuan, XX (Yuan, Xiuxiao)
+Source: PROCEEDINGS OF THE 8TH INTERNATIONAL SYMPOSIUM ON SPATIAL ACCURACY ASSESSMENT IN NATURAL RESOURCES AND ENVIRONMENTAL SCIENCES, VOL II: ACCURACY IN GEOMATICS  Pages: 30-36  Published: 2008
+ISBN: 978-1-84626-171-8
+Record 20 of 29
+Title: Nano-cryosurgery: A basic way to enhance freezing treatment of tumor
+Author(s): Liu, J (Liu, Jing); Yan, JF (Yan, Jing-Fu); Deng, ZS (Deng, Zhong-Shan)
+Source: PROCEEDINGS OF THE ASME INTERNATIONAL MECHANICAL ENGINEERING CONGRESS AND EXPOSITION 2007, VOL 2: BIOMEDICAL AND BIOTECHNOLOGY ENGINEERING  Pages: 87-94  Published: 2008
+ISBN: 978-0-7918-4296-6
+Record 21 of 29
+Title: Conformal tumor treatment by the combined cryosurgical and hyperthermic system: Optimal configuration of the multiple probes
+Author(s): Deng, ZS (Deng, Zhong-Shan); Liu, J (Liu, Jing)
+Source: PROCEEDINGS OF THE ASME INTERNATIONAL MECHANICAL ENGINEERING CONGRESS AND EXPOSITION 2007, VOL 2: BIOMEDICAL AND BIOTECHNOLOGY ENGINEERING  Pages: 95-96  Published: 2008
+ISBN: 978-0-7918-4296-6
+Record 22 of 29
+Title: Comparative study of the cryosurgical processes with two different cryosurgical systems: The endocare cryoprobe system versus the novel combined cryosurgery and hyperthermia system
+Author(s): Zhao, G (Zhao, G.); Luo, DW (Luo, D. W.); Liu, ZF (Liu, Z. F.); Gao, DY (Gao, D. Y.)
+Source: LATIN AMERICAN APPLIED RESEARCH  Volume: 37  Issue: 3  Pages: 215-222  Published: JUL 2007
+ISSN: 0327-0793
+Record 23 of 29
+Title: TNF-alpha-based accentuation in cryoinjury - dose, delivery, and response
+Author(s): Goel, R (Goel, Raghav); Swanlund, D (Swanlund, David); Coad, J (Coad, James); Paciotti, GF (Paciotti, Guilio F.); Bischof, JC (Bischof, John C.)
+Source: MOLECULAR CANCER THERAPEUTICS  Volume: 6  Issue: 7  Pages: 2039-2047  DOI: 10.1158/1535-7163.MCT-06-0676  Published: JUL 2007
+ISSN: 1535-7163
+Record 24 of 29
+Title: Feasibility study on using an infrared thermometer for evaluation and administration of cryosurgery
+Author(s): Yan, JF (Yan, Jing-Fu); Wang, HW (Wang, Hong-Wu); Liu, J (Liu, Jing); Deng, ZS (Deng, Zhong-Shan); Rao, W (Rao, Wei); Xiang, SH (Xiang, Shi-Hai)
+Source: MINIMALLY INVASIVE THERAPY & ALLIED TECHNOLOGIES  Volume: 16  Issue: 3  Pages: 173-180  DOI: 10.1080/13645700701384074  Published: 2007
+ISSN: 1364-5706
+Record 25 of 29
+Title: Modeling the heat transfer problem for the novel combined cryosurgery and hyperthermia system
+Author(s): Zhao, G (Zhao, G); Bai, XF (Bai, XF); Lu, DW (Lu, DW); Gao, DY (Gao, DY)
+Source: CRYOLETTERS  Volume: 27  Issue: 2  Pages: 115-126  Published: MAR-APR 2006
+ISSN: 0143-2044
+Record 26 of 29
+Title: Paired immunoglobulin-like receptors and their MHC class I recognition
+Author(s): Takai, T (Takai, T)
+Source: IMMUNOLOGY  Volume: 115  Issue: 4  Pages: 433-440  DOI: 10.1111/j.1365-2567.2005.02177.x  Published: AUG 2005
+ISSN: 0019-2805
+Record 27 of 29
+Title: Selective freezing of target biological tissues after injection of solutions with specific thermal properties
+Author(s): Yu, TH (Yu, TH); Liu, J (Liu, J); Zhou, YX (Zhou, YX)
+Source: CRYOBIOLOGY  Volume: 50  Issue: 2  Pages: 174-182  DOI: 10.1016/j.cryobiol.2005.01.001  Published: APR 2005
+ISSN: 0011-2240
+Record 28 of 29
+Title: Evidences of thermal stress wave induced in deeply frozen biomaterials by a strong and instantaneous heating
+Author(s): Yu, TH (Yu, TH); Liu, J (Liu, J); Zhou, YX (Zhou, YX)
+Source: JOURNAL OF THERMAL STRESSES  Volume: 27  Issue: 12  Pages: 1089-1100  DOI: 10.1080/01495730490498421  Published: DEC 2004
+ISSN: 0149-5739
+Record 29 of 29
+Title: Numerical simulation of 3-D freezing and heating problems for combined cryosurgery and hyperthermia therapy
+Author(s): Deng, ZS (Deng, ZS); Liu, J (Liu, J)
+Source: NUMERICAL HEAT TRANSFER PART A-APPLICATIONS  Volume: 46  Issue: 6  Pages: 587-611  DOI: 10.1080/10407780490487740  Published: OCT 2004
+ISSN: 1040-7782
+Zhou, JH NUMER HEAT TR A-APPL 2004 45 5 415
+Record 1 of 28
+Title: Estimation of tumor characteristics in a breast tissue with known skin surface temperature
+Author(s): Das, K (Das, Koushik); Mishra, SC (Mishra, Subhash C.)
+Source: JOURNAL OF THERMAL BIOLOGY  Volume: 38  Issue: 6  Pages: 311-317  DOI: 10.1016/j.jtherbio.2013.04.001  Published: AUG 2013
+ISSN: 0306-4565
+Record 2 of 28
+Title: Numerical analysis for determination of the presence of a tumor and estimation of its size and location in a tissue
+Author(s): Das, K (Das, Koushik); Singh, R (Singh, Rupesh); Mishra, SC (Mishra, Subhash C.)
+Source: JOURNAL OF THERMAL BIOLOGY  Volume: 38  Issue: 1  Pages: 32-40  DOI: 10.1016/j.jtherbio.2012.10.003  Published: JAN 2013
+ISSN: 0306-4565
+Record 3 of 28
+Title: A new model of selective photothermolysis to aid laser treatment of port wine stains
+Author(s): Li, D (Li Dong); He, YL (He YaLing); Wang, GX (Wang GuoXiang); Wang, YX (Wang YongXian); Ying, ZX (Ying ZhaoXia)
+Source: CHINESE SCIENCE BULLETIN  Volume: 58  Issue: 3  Pages: 416-426  DOI: 10.1007/s11434-012-5444-0  Published: JAN 2013
+ISSN: 1001-6538
+Record 4 of 28
+Title: Simulation of Near Infrared Spectroscopy for Laser Induced Interstitial Thermotherapy on Tumors
+Author(s): Zhang, H (Zhang, Hua); Hua, GR (Hua, Guoran); Qian, AP (Qian, Aiping)
+Source: ADVANCES IN ENGINEERING DESIGN AND OPTIMIZATION III, PTS 1 AND 2  Book Series: Applied Mechanics and Materials  Volume: 201-202  Pages: 1042-1045  DOI: 10.4028/www.scientific.net/AMM.201-202.1042  Published: 2012
+ISSN: 1660-9336
+ISBN: 978-3-03785-482-2
+Record 5 of 28
+Title: Image Processing of Liver Computed Tomography Angiographic (CTA) Images for Laser Induced Thermotherapy (LITT) Planning
+Author(s): Li, Y (Li, Yue); Gao, X (Gao, Xiang); Tang, QY (Tang, Qingyu); Gao, SK (Gao, Shangkai)
+Source: MEDICAL IMAGING 2012: IMAGE-GUIDED PROCEDURES, ROBOTIC INTERVENTIONS, AND MODELING  Book Series: Proceedings of SPIE  Volume: 8316  Article Number: 831638  DOI: 10.1117/12.911144  Published: 2012
+ISSN: 0277-786X
+ISBN: 978-0-8194-8965-4
+Record 6 of 28
+Title: Three-Dimensional Numerical Simulation of Blood Flow in Two Coronary Stents
+Author(s): Gori, F (Gori, F.); Boghi, A (Boghi, A.)
+Source: NUMERICAL HEAT TRANSFER PART A-APPLICATIONS  Volume: 59  Issue: 4  Pages: 231-246  Article Number:   DOI: 10.1080/10407782.2011.541147  Published: 2011
+ISSN: 1040-7782
+Record 7 of 28
+Title: Monte Carlo Simulation of Light Distribution in Liver Tumors for 808nm Wavelength Laser
+Author(s): Hua, GR (Hua, Guoran); Zhang, H (Zhang, Hua); Qian, AP (Qian Aiping); Lv, CJ (Lv Caojun)
+Source: FUNCTIONAL MANUFACTURING TECHNOLOGIES AND CEEUSRO II  Book Series: Key Engineering Materials  Volume: 464  Pages: 663-667  DOI: 10.4028/www.scientific.net/KEM.464.663  Published: 2011
+ISSN: 1013-9826
+Record 8 of 28
+Title: Heat transfer-A review of 2004 literature
+Author(s): Goldstein, RJ (Goldstein, R. J.); Ibele, WE (Ibele, W. E.); Patankar, SV (Patankar, S. V.); Simon, TW (Simon, T. W.); Kuehn, TH (Kuehn, T. H.); Strykowski, PJ (Strykowski, P. J.); Tamma, KK (Tamma, K. K.); Heberlein, JVR (Heberlein, J. V. R.); Davidson, JH (Davidson, J. H.); Bischof, J (Bischof, J.); Kulacki, FA (Kulacki, F. A.); Kortshagen, U (Kortshagen, U.); Garrick, S (Garrick, S.); Srinivasan, V (Srinivasan, V.); Ghosh, K (Ghosh, K.); Mittal, R (Mittal, R.)
+Source: INTERNATIONAL JOURNAL OF HEAT AND MASS TRANSFER  Volume: 53  Issue: 21-22  Pages: 4343-4396  DOI: 10.1016/j.ijheatmasstransfer.2010.05.004  Published: OCT 2010
+ISSN: 0017-9310
+Record 9 of 28
+Title: Monte-Carlo Simulation on Gold Nanoshells Enhanced Laser Interstitial Thermal Therapy on Target Tumor
+Author(s): Wang, X (Wang, Xin); Gao, X (Gao, Xiang); Liu, J (Liu, Jing)
+Source: JOURNAL OF COMPUTATIONAL AND THEORETICAL NANOSCIENCE  Volume: 7  Issue: 6  Pages: 1025-1031  DOI: 10.1166/jctn.2010.1448  Published: JUN 2010
+ISSN: 1546-1955
+Record 10 of 28
+Title: Current devices for high-performance whole-body hyperthermia therapy
+Author(s): Jia, DW (Jia, Dewei); Liu, J (Liu, Jing)
+Source: EXPERT REVIEW OF MEDICAL DEVICES  Volume: 7  Issue: 3  Pages: 407-423  DOI: 10.1586/ERD.10.13  Published: MAY 2010
+ISSN: 1743-4440
+Record 11 of 28
+Title: Simulation of Laser-Induced Thermotherapy Using a Dual-Reciprocity Boundary Element Model With Dynamic Tissue Properties
+Author(s): Zhou, JH (Zhou, Jianhua); Chen, JK (Chen, J. K.); Zhang, YW (Zhang, Yuwen)
+Source: IEEE TRANSACTIONS ON BIOMEDICAL ENGINEERING  Volume: 57  Issue: 2  Pages: 238-245  DOI: 10.1109/TBME.2009.2029562  Published: FEB 2010
+ISSN: 0018-9294
+Record 12 of 28
+Title: The Radiation Element Method Coupled with the Bioheat Transfer Equation Applied to the Analysis of the Photothermal Effect of Tissues
+Author(s): Sakurai, A (Sakurai, Atsushi); Maruyama, S (Maruyama, Shigenao); Matsubara, K (Matsubara, Koji)
+Source: NUMERICAL HEAT TRANSFER PART A-APPLICATIONS  Volume: 58  Issue: 8  Pages: 625-640  Article Number:   DOI: 10.1080/10407782.2010.516698  Published: 2010
+ISSN: 1040-7782
+Record 13 of 28
+Title: LITERATURE SURVEY OF NUMERICAL HEAT TRANSFER (2000-2009): PART I
+Author(s): Shih, TM (Shih, Tien-Mo); Thamire, C (Thamire, Chandrasekhar); Sung, CH (Sung, Chao-Ho); Ren, AL (Ren, An-Lu)
+Source: NUMERICAL HEAT TRANSFER PART A-APPLICATIONS  Volume: 57  Issue: 3-4  Pages: 159-296  DOI: 10.1080/10407781003656827  Published: 2010
+ISSN: 1040-7782
+Record 14 of 28
+Title: VASCULAR COUNTERCURRENT NETWORK FOR 3-D TRIPLE-LAYERED SKIN STRUCTURE WITH RADIATION HEATING
+Author(s): Zeng, XQ (Zeng, Xiaoqi); Dai, WZ (Dai, Weizhong); Bejan, A (Bejan, Adrian)
+Source: NUMERICAL HEAT TRANSFER PART A-APPLICATIONS  Volume: 57  Issue: 6  Pages: 369-391  DOI: 10.1080/10407781003659599  Published: 2010
+ISSN: 1040-7782
+Record 15 of 28
+Title: Effects of large blood vessels on the transient propagation of ultrafast laser pulse in biological tissues
+Author(s): Zhou, JH (Zhou, Jianhua); Zhang, YW (Zhang, Yuwen); Chen, JK (Chen, J. K.)
+Source: HEAT AND MASS TRANSFER  Volume: 45  Issue: 5  Pages: 527-535  DOI: 10.1007/s00231-008-0460-y  Published: MAR 2009
+ISSN: 0947-7411
+Record 16 of 28
+Title: The Study of the Controllable Paramters on the Hyperthermia Efficiency (A Numerical Study)
+Author(s): Balali, M (Balali, M.); Ayani, MB (Ayani, M. B.)
+Source: 2009 3RD INTERNATIONAL CONFERENCE ON BIOINFORMATICS AND BIOMEDICAL ENGINEERING, VOLS 1-11  Pages: 2790-2793  Published: 2009
+ISBN: 978-1-4244-2901-1
+Record 17 of 28
+Title: A mathematical model for skin burn injury induced by radiation heating
+Author(s): Dai, WZ (Dai, Weizhong); Wang, HJ (Wang, Haojie); Jordan, PM (Jordan, Pedro M.); Mickens, RE (Mickens, Ronald E.); Bejan, A (Bejan, Adrian)
+Source: INTERNATIONAL JOURNAL OF HEAT AND MASS TRANSFER  Volume: 51  Issue: 23-24  Pages: 5497-5510  DOI: 10.1016/j.ijheatmasstransfer.2008.01.006  Published: NOV 2008
+ISSN: 0017-9310
+Record 18 of 28
+Title: A dual reciprocity boundary element method for photothermal interactions in laser-induced thermotherapy
+Author(s): Zhou, JH (Zhou, Jianhua); Zhang, YW (Zhang, Yuwen); Chen, JK (Chen, J. K.)
+Source: INTERNATIONAL JOURNAL OF HEAT AND MASS TRANSFER  Volume: 51  Issue: 15-16  Pages: 3869-3881  DOI: 10.1016/j.ijheatmasstransfer.2008.01.009  Published: JUL 15 2008
+ISSN: 0017-9310
+Record 19 of 28
+Title: A numerical model for calculating the vaporization rate of a fuel droplet exposed to a convective turbulent airflow
+Author(s): Al-Sood, MMA (Al-Sood, Maher M. Abou); Birouk, M (Birouk, Madjid)
+Source: INTERNATIONAL JOURNAL OF NUMERICAL METHODS FOR HEAT & FLUID FLOW  Volume: 18  Issue: 2  Pages: 146-159  DOI: 10.1108/09615530810846301  Published: 2008
+ISSN: 0961-5539
+Record 20 of 28
+Title: Non-Fourier heat conduction effect on laser-induced thermal damage in biological tissues
+Author(s): Zhou, JH (Zhou, Jianhua); Zhang, YW (Zhang, Yuwen); Chen, JK (Chen, J. K.)
+Source: NUMERICAL HEAT TRANSFER PART A-APPLICATIONS  Volume: 54  Issue: 1  Pages: 1-19  DOI: 10.1080/10407780802025911  Published: 2008
+ISSN: 1040-7782
+Record 21 of 28
+Title: A thermal-ablation bioheat model including liquid-to-vapor phase change, pressure- and necrosis-dependent perfusion, and moisture-dependent properties
+Author(s): Abraham, JP (Abraham, J. P.); Sparrow, EM (Sparrow, E. M.)
+Source: INTERNATIONAL JOURNAL OF HEAT AND MASS TRANSFER  Volume: 50  Issue: 13-14  Pages: 2537-2544  DOI: 10.1016/j.ijheatmasstransfer.2006.11.045  Published: JUL 2007
+ISSN: 0017-9310
+Record 22 of 28
+Title: Optimal temperature distribution in a 3D triple-layered skin structure embedded with artery and vein vasculature and induced by electromagnetic radiation
+Author(s): Wang, HJ (Wang, Haojie); Dai, WZ (Dai, Weizhong); Bejan, A (Bejan, Adrian)
+Source: INTERNATIONAL JOURNAL OF HEAT AND MASS TRANSFER  Volume: 50  Issue: 9-10  Pages: 1843-1854  DOI: 10.1016/j.ijheatmasstransfer.2006.10.005  Published: MAY 2007
+ISSN: 0017-9310
+Record 23 of 28
+Title: Minimally invasive thermotherapy method for tumor treatment based on an exothermic chemical reaction
+Author(s): Deng, ZS (Deng, Zhong-Shan); Liu, J (Liu, Jing)
+Source: MINIMALLY INVASIVE THERAPY & ALLIED TECHNOLOGIES  Volume: 16  Issue: 6  Pages: 341-346  DOI: 10.1080/13645700701709494  Published: 2007
+ISSN: 1364-5706
+Record 24 of 28
+Title: Numerical study of sphere drag coefficient in turbulent flow at low Reynolds number
+Author(s): Birouk, M (Birouk, Madjid); Abou Al-Sood, MM (Abou Al-Sood, Maher M.)
+Source: NUMERICAL HEAT TRANSFER PART A-APPLICATIONS  Volume: 51  Issue: 1  Pages: 39-57  DOI: 10.1080/10407780600710227  Published: JAN 1 2007
+ISSN: 1040-7782
+Record 25 of 28
+Title: Optimal temperature distribution in a three-dimensional triple-layered skin structure embedded with artery and vein vasculature
+Author(s): Tang, XG (Tang, Xingui); Dai, WZ (Dai, Weizhong); Nassar, R (Nassar, Raja); Bejan, A (Bejan, Adrian)
+Source: NUMERICAL HEAT TRANSFER PART A-APPLICATIONS  Volume: 50  Issue: 9  Pages: 809-834  DOI: 10.1080/10407780600669175  Published: DEC 1 2006
+ISSN: 1040-7782
+Record 26 of 28
+Title: Laser pulse heating of steel surface: Consideration of phase-change process
+Author(s): Bin-Mansoor, S (Bin-Mansoor, S.); Yilbas, BS (Yilbas, B. S.)
+Source: NUMERICAL HEAT TRANSFER PART A-APPLICATIONS  Volume: 50  Issue: 8  Pages: 787-807  DOI: 10.1080/10407780600669159  Published: NOV 2006
+ISSN: 1040-7782
+Record 27 of 28
+Title: Optimal temperature distribution in a three dimensional triple-layered skin structure with embedded vasculature
+Author(s): Dai, WZ (Dai, WZ); Bejan, A (Bejan, A); Tang, XG (Tang, XG); Zhang, L (Zhang, L); Nassar, R (Nassar, R)
+Source: JOURNAL OF APPLIED PHYSICS  Volume: 99  Issue: 10  Article Number: 104702  DOI: 10.1063/1.2199193  Published: MAY 15 2006
+ISSN: 0021-8979
+Record 28 of 28
+Title: Numerical study on the thawing process of biological tissue induced by laser irradiation
+Author(s): Zhou, JH (Zhou, JH); Liu, J (Liu, J); Yu, AB (Yu, AB)
+Source: JOURNAL OF BIOMECHANICAL ENGINEERING-TRANSACTIONS OF THE ASME  Volume: 127  Issue: 3  Pages: 416-431  DOI: 10.1115/1.1894294  Published: JUN 2005
+ISSN: 0148-0731
+Zhong-Shan Deng Computers in Biology and Medicine 2004 34 6
+Record 1 of 51
+Title: MRI-based finite element simulation on radiofrequency ablation of thyroid cancer
+Author(s): Jin, C (Jin, Chao); He, ZZ (He, Zhizhu); Liu, J (Liu, Jing)
+Source: COMPUTER METHODS AND PROGRAMS IN BIOMEDICINE  Volume: 113  Issue: 2  Pages: 529-538  DOI: 10.1016/j.cmpb.2013.12.007  Published: FEB 2014
+ISSN: 0169-2607
+Record 2 of 51
+Title: MRI-based three-dimensional thermal physiological characterization of thyroid gland of human body
+Author(s): Jin, C (Jin, Chao); He, ZZ (He, Zhi Zhu); Yang, Y (Yang, Yang); Liu, J (Liu, Jing)
+Source: MEDICAL ENGINEERING & PHYSICS  Volume: 36  Issue: 1  Pages: 16-25  DOI: 10.1016/j.medengphy.2013.08.003  Published: JAN 2014
+ISSN: 1350-4533
+Record 3 of 51
+Title: An Effective Finite Difference Method for Simulation of Bioheat Transfer in Irregular Tissues
+Author(s): He, ZZ (He, Zhi Zhu); Xue, X (Xue, Xu); Liu, J (Liu, Jing)
+Source: JOURNAL OF HEAT TRANSFER-TRANSACTIONS OF THE ASME  Volume: 135  Issue: 7  Article Number: 071003  DOI: 10.1115/1.4024064  Published: JUL 2013
+ISSN: 0022-1481
+Record 4 of 51
+Title: Evaluation on the Power-Generation Capacity of an Implantable Thermoelectric Generator Driven by Radioisotope Fuel
+Author(s): Yang, Y (Yang, Yang); Liu, J (Liu, Jing)
+Source: JOURNAL OF HEAT TRANSFER-TRANSACTIONS OF THE ASME  Volume: 135  Issue: 7  Article Number: 071004  DOI: 10.1115/1.4024065  Published: JUL 2013
+ISSN: 0022-1481
+Record 5 of 51
+Title: A spectral element method for solving the Pennes bioheat transfer equation by using triangular and quadrilateral elements
+Author(s): Dehghan, M (Dehghan, Mehdi); Sabouri, M (Sabouri, Mania)
+Source: APPLIED MATHEMATICAL MODELLING  Volume: 36  Issue: 12  Pages: 6031-6049  DOI: 10.1016/j.apm.2012.01.018  Published: DEC 2012
+ISSN: 0307-904X
+Record 6 of 51
+Title: Thermal Imaging to Assess Age-Related Changes of Skin Temperature within the Supraclavicular Region Co-Locating with Brown Adipose Tissue in Healthy Children
+Author(s): Symonds, ME (Symonds, Michael E.); Henderson, K (Henderson, Katrina); Elvidge, L (Elvidge, Lindsay); Bosman, C (Bosman, Conrad); Sharkey, D (Sharkey, Don); Perkins, AC (Perkins, Alan C.); Budge, H (Budge, Helen)
+Source: JOURNAL OF PEDIATRICS  Volume: 161  Issue: 5  Pages: 892-898  DOI: 10.1016/j.jpeds.2012.04.056  Published: NOV 2012
+ISSN: 0022-3476
+Record 7 of 51
+Title: Theoretical model for thermal protection by microencapsulated phase change micro/nanoparticles during hyperthermia
+Author(s): Lv, YG (Lv, Yonggang); Zou, Y (Zou, Yang); Yang, L (Yang, Li)
+Source: HEAT AND MASS TRANSFER  Volume: 48  Issue: 4  Pages: 573-584  DOI: 10.1007/s00231-011-0907-4  Published: APR 2012
+ISSN: 0947-7411
+Record 8 of 51
+Title: OPTIMIZATION OF SKIN COOLING FOR THERMOGRAPHIC IMAGING OF NEAR-SURFACE LESIONS
+Author(s): Cheng, TY (Cheng, Tze-Yuan); Herman, C (Herman, Cila)
+Source: PROCEEDINGS OF THE ASME INTERNATIONAL MECHANICAL ENGINEERING CONGRESS AND EXPOSITION, VOL 2  Pages: 351-360  Published: 2012
+ISBN: 978-0-7918-5488-4
+Record 9 of 51
+Title: EVALUATION OF THE POWER-GENERATION CAPACITY OF IMPLANTABLE THERMOELECTRIC POWER GENERATOR DRIVEN BY RADIOISOTOPE FUEL
+Author(s): Yang, Y (Yang, Yang); Liu, J (Liu, Jing)
+Source: PROCEEDINGS OF THE ASME INTERNATIONAL MECHANICAL ENGINEERING CONGRESS AND EXPOSITION, VOL 2  Pages: 377-383  Published: 2012
+ISBN: 978-0-7918-5488-4
+Record 10 of 51
+Title: Thermal Imaging in Medicine
+Author(s): Izhar, LI (Izhar, Lila Iznita); Petrou, M (Petrou, Maria)
+Source: ADVANCES IN IMAGING AND ELECTRON PHYSICS, VOL 171  Book Series: Advances in Imaging and Electron Physics  Volume: 171  Pages: 41-114  DOI: 10.1016/B978-0-12-394297-5.00002-7  Published: 2012
+ISSN: 1076-5670
+ISBN: 978-0-12-394297-5
+Record 11 of 51
+Title: Analytical solution of the parabolic and hyperbolic heat transfer equations with constant and transient heat flux conditions on skin tissue
+Author(s): Ahmadikia, H (Ahmadikia, H.); Fazlali, R (Fazlali, R.); Moradi, A (Moradi, A.)
+Source: INTERNATIONAL COMMUNICATIONS IN HEAT AND MASS TRANSFER  Volume: 39  Issue: 1  Pages: 121-130  DOI: 10.1016/j.icheatmasstransfer.2011.09.016  Published: JAN 2012
+ISSN: 0735-1933
+Record 12 of 51
+Title: Numerical Study of Temperature Distribution in a Spherical Tissue in Magnetic Fluid Hyperthermia Using Lattice Boltzmann Method
+Author(s): Lahonian, M (Lahonian, Mansour); Golneshan, AA (Golneshan, Ali Akbar)
+Source: IEEE TRANSACTIONS ON NANOBIOSCIENCE  Volume: 10  Issue: 4  Pages: 262-268  DOI: 10.1109/TNB.2011.2177100  Published: DEC 2011
+ISSN: 1536-1241
+Record 13 of 51
+Title: Shape optimization for tumor location
+Author(s): Agnelli, JP (Agnelli, J. P.); Padra, C (Padra, C.); Turner, CV (Turner, C. V.)
+Source: COMPUTERS & MATHEMATICS WITH APPLICATIONS  Volume: 62  Issue: 11  Pages: 4068-4081  DOI: 10.1016/j.camwa.2011.09.055  Published: DEC 2011
+ISSN: 0898-1221
+Record 14 of 51
+Title: Feasibility study for thermal protection by microencapsulated phase change micro/nanoparticles during cryosurgery
+Author(s): Lv, YG (Lv, Yonggang); Zou, Y (Zou, Yang); Yang, L (Yang, Li)
+Source: CHEMICAL ENGINEERING SCIENCE  Volume: 66  Issue: 17  Pages: 3941-3953  DOI: 10.1016/j.ces.2011.05.031  Published: SEP 1 2011
+ISSN: 0009-2509
+Record 15 of 51
+Title: Analytical theory of bioheat transport
+Author(s): Fan, J (Fan, Jing); Wang, LQ (Wang, Liqiu)
+Source: JOURNAL OF APPLIED PHYSICS  Volume: 109  Issue: 10  Article Number: 104702  DOI: 10.1063/1.3580330  Published: MAY 15 2011
+ISSN: 0021-8979
+Record 16 of 51
+Title: EFFECT OF HEATED REGION ON TEMPERATURE DISTRIBUTION WITHIN TISSUE DURING MAGNETIC FLUID HYPERTHERMIA USING LATTICE BOLTZMANN METHOD
+Author(s): Golneshan, AA (Golneshan, Ali Akbar); Lahonian, M (Lahonian, Mansour)
+Source: JOURNAL OF MECHANICS IN MEDICINE AND BIOLOGY  Volume: 11  Issue: 2  Pages: 457-469  DOI: 10.1142/S0219519410003824  Published: APR 2011
+ISSN: 0219-5194
+Record 17 of 51
+Title: Investigation on three-dimensional temperature field of human knee considering anatomical structure
+Author(s): Xiao, JA (Xiao, Jian); He, ZZ (He, Zhi-Zhu); Yang, Y (Yang, Yang); Chen, BW (Chen, Bo-Wei); Deng, ZS (Deng, Zhong-Shan); Liu, J (Liu, Jing)
+Source: INTERNATIONAL JOURNAL OF HEAT AND MASS TRANSFER  Volume: 54  Issue: 9-10  Pages: 1851-1860  DOI: 10.1016/j.ijheatmasstransfer.2010.11.057  Published: APR 2011
+ISSN: 0017-9310
+Record 18 of 51
+Title: Tumor location and parameter estimation by thermography
+Author(s): Agnelli, JP (Agnelli, J. P.); Barrea, AA (Barrea, A. A.); Turner, CV (Turner, C. V.)
+Source: MATHEMATICAL AND COMPUTER MODELLING  Volume: 53  Issue: 7-8  Pages: 1527-1534  DOI: 10.1016/j.mcm.2010.04.003  Published: APR 2011
+ISSN: 0895-7177
+Record 19 of 51
+Title: The effect of magnetic nanoparticle dispersion on temperature distribution in a spherical tissue in magnetic fluid hyperthermia using the lattice Boltzmann method
+Author(s): Golneshan, AA (Golneshan, A. A.); Lahonian, M (Lahonian, M.)
+Source: INTERNATIONAL JOURNAL OF HYPERTHERMIA  Volume: 27  Issue: 3  Pages: 266-274  DOI: 10.3109/02656736.2010.519370  Published: 2011
+ISSN: 0265-6736
+Record 20 of 51
+Title: A heat transfer model of skin tissue for the detection of lesions: sensitivity analysis
+Author(s): Cetingul, MP (Cetinguel, M. Pirtini); Herman, C (Herman, C.)
+Source: PHYSICS IN MEDICINE AND BIOLOGY  Volume: 55  Issue: 19  Pages: 5933-5951  DOI: 10.1088/0031-9155/55/19/020  Published: OCT 7 2010
+ISSN: 0031-9155
+Record 21 of 51
+Title: A novel brain-inspired neural cognitive approach to SARS thermal image analysis
+Author(s): Quek, C (Quek, C.); Irawan, W (Irawan, W.); Ng, EYK (Ng, E. Y. K.)
+Source: EXPERT SYSTEMS WITH APPLICATIONS  Volume: 37  Issue: 4  Pages: 3040-3054  DOI: 10.1016/j.eswa.2009.09.028  Published: APR 2010
+ISSN: 0957-4174
+Record 22 of 51
+Title: An RBF-MFS model for analysing thermal behaviour of skin tissues
+Author(s): Cao, LL (Cao, Leilei); Qin, QH (Qin, Qing-Hua); Zhao, N (Zhao, Ning)
+Source: INTERNATIONAL JOURNAL OF HEAT AND MASS TRANSFER  Volume: 53  Issue: 7-8  Pages: 1298-1307  DOI: 10.1016/j.ijheatmasstransfer.2009.12.036  Published: MAR 2010
+ISSN: 0017-9310
+Record 23 of 51
+Title: Determination of Thermal Conductivities of Biological Tissue Protein
+Author(s): Zhang, M (Zhang, Min); Chen, JH (Chen, Jianhua); Che, ZH (Che, Zhenhua); Lu, JH (Lu, Jiahua); Zhong, ZY (Zhong, Zhiyou); Yang, L (Yang, Le); Zhao, HZ (Zhao, Huizhong)
+Source: 2010 3RD INTERNATIONAL CONFERENCE ON BIOMEDICAL ENGINEERING AND INFORMATICS (BMEI 2010), VOLS 1-7  Pages: 1664-1667  DOI: 10.1109/BMEI.2010.5639616  Published: 2010
+ISBN: 978-1-4244-6496-8
+Record 24 of 51
+Title: QUANTITATIVE EVALUATION OF SKIN LESIONS USING TRANSIENT THERMAL IMAGING
+Author(s): Cetingul, MP (Cetinguel, Muege Pirtini); Alani, RM (Alani, Rhoda M.); Herman, C (Herman, Cila)
+Source: PROCEEDINGS OF THE ASME INTERNATIONAL HEAT TRANSFER CONFERENCE - 2010, VOL 1: BIO HEAT TRANSFER, BOILING HEAT TRANSFER, COMPUTATIONAL HEAT TRANSFER  Pages: 31-39  Published: 2010
+ISBN: 978-0-7918-4936-1
+Record 25 of 51
+Title: First application of dynamic infrared imaging in boron neutron capture therapy for cutaneous malignant melanoma
+Author(s): Cruz, GAS (Santa Cruz, G. A.); Gonzalez, SJ (Gonzalez, S. J.); Bertotti, J (Bertotti, J.); Marin, J (Marin, J.)
+Source: MEDICAL PHYSICS  Volume: 36  Issue: 10  Pages: 4519-4529  DOI: 10.1118/1.3218760  Published: OCT 2009
+ISSN: 0094-2405
+Record 26 of 51
+Title: Mathematical Modeling of Skin Bioheat Transfer
+Author(s): Xu, F (Xu, F.); Lu, TJ (Lu, T. J.); Seffen, KA (Seffen, K. A.); Ng, EYK (Ng, E. Y. K.)
+Source: APPLIED MECHANICS REVIEWS  Volume: 62  Issue: 5  Article Number: 050801  DOI: 10.1115/1.3124646  Published: SEP 2009
+ISSN: 0003-6900
+Record 27 of 51
+Title: Suitability of using far-infrared imaging system for noncontact evaluation on working state of implantable medical devices
+Author(s): Yang, Y (Yang, Yang); Wei, XJ (Wei, Xiao-Juan); Liu, J (Liu, Jing)
+Source: JOURNAL OF APPLIED PHYSICS  Volume: 105  Issue: 6  Article Number: 064701  DOI: 10.1063/1.3093868  Published: MAR 15 2009
+ISSN: 0021-8979
+Record 28 of 51
+Title: Novel approach to assess the emissivity of the human skin
+Author(s): Sanchez-Marin, FJ (Sanchez-Marin, Francisco J.); Calixto-Carrera, S (Calixto-Carrera, Sergio); Villasenor-Mora, C (Villasenor-Mora, Carlos)
+Source: JOURNAL OF BIOMEDICAL OPTICS  Volume: 14  Issue: 2  Article Number: 024006  DOI: 10.1117/1.3086612  Published: MAR-APR 2009
+ISSN: 1083-3668
+Record 29 of 51
+Title: Critical conditions for the thermal diagnosis of the breast cancer
+Author(s): Zhang, HF (Zhang, Haifeng); He, LQ (He, Liqun); Zhu, LA (Zhu, Liang)
+Source: 2009 3RD INTERNATIONAL CONFERENCE ON BIOINFORMATICS AND BIOMEDICAL ENGINEERING, VOLS 1-11  Pages: 2798-2800  Published: 2009
+ISBN: 978-1-4244-2901-1
+Record 30 of 51
+Title: TRANSIENT THERMAL RESPONSE OF SKIN TISSUE
+Author(s): Cetingul, MP (Cetingul, Muge Pirtini); Herman, C (Herman, Cila)
+Source: HT2008: PROCEEDING OF THE ASME SUMMER HEAT TRANSFER CONFERENCE, VOL 3  Pages: 355-361  Published: 2009
+ISBN: 978-0-7918-4849-4
+Record 31 of 51
+Title: SKIN IMAGING WITH INFRARED THERMOGRAPHY AND CONFOCAL MICROSCOPY
+Author(s): Cetingul, MP (Cetinguel, Muege Pirtini); Herman, C (Herman, Cila); Alani, RM (Alani, Rhoda M.)
+Source: HT2009: PROCEEDINGS OF THE ASME SUMMER HEAT TRANSFER, VOL 3  Pages: 731-739  Published: 2009
+ISBN: 978-0-7918-4358-1
+Record 32 of 51
+Title: A coupled dual reciprocity BEM/genetic algorithm for identification of blood perfusion parameters
+Author(s): Partridge, PW (Partridge, Paul W.); Wrobel, LC (Wrobel, Luiz C.)
+Source: INTERNATIONAL JOURNAL OF NUMERICAL METHODS FOR HEAT & FLUID FLOW  Volume: 19  Issue: 1  Pages: 25-38  DOI: 10.1108/09615530910922134  Published: 2009
+ISSN: 0961-5539
+Record 33 of 51
+Title: TRANSIENT THERMAL RESPONSE OF SKIN TISSUE
+Author(s): Cetingul, MP (Cetingul, Muge Pirtini); Herman, C (Herman, Cila)
+Source: PROCEEDINGS OF THE ASME INTERNATIONAL MECHANICAL ENGINEERING CONGRESS AND EXPOSITION 2008, VOL 2  Pages: 95-96  Published: 2009
+ISBN: 978-0-7918-4863-0
+Record 34 of 51
+Title: Distribution of the Temperature in Human Body in RF Hyperthermia
+Author(s): Kurgan, E (Kurgan, Eugeniusz); Gas, P (Gas, Piotr)
+Source: PRZEGLAD ELEKTROTECHNICZNY  Volume: 85  Issue: 12  Pages: 96-99  Published: 2009
+ISSN: 0033-2097
+Record 35 of 51
+Title: The noninvasive reconstruction of 3D temperature field in a biological body with Monte Carlo method
+Author(s): Li, KY (Li, Kai-Yang); Dong, YG (Dong, Yong-Gang); Chen, C (Chen, Cheng); Zhang, SP (Zhang, Shao-Ping)
+Source: NEUROCOMPUTING  Volume: 72  Issue: 1-3  Pages: 128-133  DOI: 10.1016/j.neucom.2008.03.016  Published: DEC 2008
+ISSN: 0925-2312
+Record 36 of 51
+Title: Focal plane array based infrared thermography in fine physical experiment
+Author(s): Vainer, BG (Vainer, Boris G.)
+Source: JOURNAL OF PHYSICS D-APPLIED PHYSICS  Volume: 41  Issue: 6  Article Number: 065102  DOI: 10.1088/0022-3727/41/6/065102  Published: MAR 21 2008
+ISSN: 0022-3727
+Record 37 of 51
+Title: Lattice Boltzmann method for solving the bioheat equation
+Author(s): Zhang, HF (Zhang, Haifeng)
+Source: PHYSICS IN MEDICINE AND BIOLOGY  Volume: 53  Issue: 3  Pages: N15-N23  DOI: 10.1088/0031-9155/53/3/N01  Published: FEB 7 2008
+ISSN: 0031-9155
+Record 38 of 51
+Title: Sweating Feature as a Potential Index for Improving Tumor Diagnostics Using Thermal Infrared Image
+Author(s): Zhang, H (Zhang, Hui); Liu, J (Liu, Jing); Deng, ZS (Deng, Zhong-Shan); He, ZZ (He, Zhi-Zhu); Xiao, J (Xiao, Jian)
+Source: 2008 5TH INTERNATIONAL SUMMER SCHOOL AND SYMPOSIUM ON MEDICAL DEVICES AND BIOSENSORS  Pages: 22-25  DOI: 10.1109/SPAWDA.2008.4775742  Published: 2008
+ISBN: 978-1-4244-2252-4
+Record 39 of 51
+Title: Effect of Fixing Material on Skin-Contact Temperature Measurement by Wearable Sensor
+Author(s): Deng, ZS (Deng, Zhong-Shan); Liu, J (Liu, Jing)
+Source: 2008 5TH INTERNATIONAL SUMMER SCHOOL AND SYMPOSIUM ON MEDICAL DEVICES AND BIOSENSORS  Pages: 151-154  Published: 2008
+ISBN: 978-1-4244-2252-4
+Record 40 of 51
+Title: Identification of skin lesions from the transient thermal response using infrared imaging technique
+Author(s): Cetingul, MP (Cetingul, M. Pirtini); Herman, C (Herman, C.)
+Source: 2008 IEEE INTERNATIONAL SYMPOSIUM ON BIOMEDICAL IMAGING: FROM NANO TO MACRO, VOLS 1-4  Book Series: IEEE International Symposium on Biomedical Imaging  Pages: 1219-1222  Published: 2008
+ISSN: 1945-7928
+ISBN: 978-1-4244-2002-5
+Record 41 of 51
+Title: Noninvasive Reconstruction of Temperature Field by Boundary Element Method
+Author(s): Wen, JH (Wen, Jinhua); Li, KY (Li, Kaiyang); Yu, ZS (Yu, Zhangshen); Yin, DQ (Yin, Daiqiang)
+Source: ICNC 2008: FOURTH INTERNATIONAL CONFERENCE ON NATURAL COMPUTATION, VOL 5, PROCEEDINGS  Pages: 584-588  DOI: 10.1109/ICNC.2008.151  Published: 2008
+ISBN: 978-0-7695-3304-9
+Record 42 of 51
+Title: Analytical analysis of the Pennes bioheat transfer equation with sinusoidal heat flux condition on skin surface
+Author(s): Shih, TC (Shih, Tzu-Ching); Yuan, P (Yuan, Ping); Lin, WL (Lin, Win-Li); Kou, HS (Kou, Hong-Sen)
+Source: MEDICAL ENGINEERING & PHYSICS  Volume: 29  Issue: 9  Pages: 946-953  DOI: 10.1016/j.medengphy.2006.10.008  Published: NOV 2007
+ISSN: 1350-4533
+Record 43 of 51
+Title: An inverse geometry problem for the localisation of skin tumours by thermal analysis
+Author(s): Partridge, PW (Partridge, P. W.); Wrobel, LC (Wrobel, L. C.)
+Source: ENGINEERING ANALYSIS WITH BOUNDARY ELEMENTS  Volume: 31  Issue: 10  Pages: 803-811  DOI: 10.1016/j.enganabound.2007.02.002  Published: OCT 2007
+ISSN: 0955-7997
+Record 44 of 51
+Title: Suitability of a thermoelectric power generator for implantable medical electronic devices
+Author(s): Yang, Y (Yang, Yang); Wei, XJ (Wei, Xiao-Juan); Liu, J (Liu, Jing)
+Source: JOURNAL OF PHYSICS D-APPLIED PHYSICS  Volume: 40  Issue: 18  Pages: 5790-5800  DOI: 10.1088/0022-3727/40/18/042  Published: SEP 21 2007
+ISSN: 0022-3727
+Record 45 of 51
+Title: A basic step toward understanding skin surface temperature distributions caused by internal heat sources
+Author(s): Wu, Z (Wu, Zheng); Liu, HH (Liu, Hui Helen); Lebanowski, L (Lebanowski, Logan); Liu, ZQ (Liu, Zhongqi); Hor, PH (Hor, Pei Herng)
+Source: PHYSICS IN MEDICINE AND BIOLOGY  Volume: 52  Issue: 17  Pages: 5379-5392  DOI: 10.1088/0031-9155/52/17/019  Published: SEP 7 2007
+ISSN: 0031-9155
+Record 46 of 51
+Title: Thermal imaging of a vein of the forearm: Analysis and thermal modelling
+Author(s): Boue, C (Boue, Christine); Cassagne, F (Cassagne, Francis); Massoud, C (Massoud, Chadi); Fournier, D (Fournier, Daniele)
+Source: INFRARED PHYSICS & TECHNOLOGY  Volume: 51  Issue: 1  Pages: 13-20  DOI: 10.1016/j.infrared.2007.05.002  Published: JUL 2007
+ISSN: 1350-4495
+Record 47 of 51
+Title: Uncertainties in the micro/nano-particles induced hyperthermia treatment on tumor subject to external EM field
+Author(s): Deng, ZS (Deng, Zhong-Shan); Liu, J (Liu, Jing)
+Source: 2006 1st IEEE International Conference on Nano/Micro Engineered and Molecular Systems, Vols 1-3  Pages: 851-855  DOI: 10.1109/NEMS.2006.334910  Published: 2006
+ISBN: 978-1-4244-0139-0
+Record 48 of 51
+Title: 3-D numerical study on the induced heating effects of embedded micro/nanoparticles on human body subject to external medical electromagnetic field
+Author(s): Lv, YG (Lv, YG); Deng, ZS (Deng, ZS); Liu, J (Liu, J)
+Source: IEEE TRANSACTIONS ON NANOBIOSCIENCE  Volume: 4  Issue: 4  Pages: 284-294  DOI: 10.1109/TNB.2005.859549  Published: DEC 2005
+ISSN: 1536-1241
+Record 49 of 51
+Title: Thermal imaging bundle - A potential tool to enhance minimally invasive medical procedures
+Author(s): Gannot, I (Gannot, I)
+Source: IEEE CIRCUITS & DEVICES  Volume: 21  Issue: 6  Pages: 28-33  DOI: 10.1109/MCD.2005.1578585  Published: NOV-DEC 2005
+ISSN: 8755-3996
+Record 50 of 51
+Title: Enhancement of thermal diagnostics on tumors underneath the skin by induced evaporation
+Author(s): Deng, ZS (Deng, Zhong-Shan); Liu, J (Liu, Jing)
+Source: 2005 27TH ANNUAL INTERNATIONAL CONFERENCE OF THE IEEE ENGINEERING IN MEDICINE AND BIOLOGY SOCIETY, VOLS 1-7  Book Series: PROCEEDINGS OF ANNUAL INTERNATIONAL CONFERENCE OF THE IEEE ENGINEERING IN MEDICINE AND BIOLOGY SOCIETY  Pages: 7525-7528  Published: 2005
+ISSN: 1094-687X
+ISBN: 0-7803-8740-6
+Record 51 of 51
+Title: Temperature nonuniformity during applying dynamic infrared thermography for tumor detection: Impact of large vessels
+Author(s): Deng, ZS (Deng, Zhong-Shan); Liu, J (Liu, Jing)
+Source: Proceedings of the ASME Heat Transfer Division 2005, Vol 1  Book Series: Heat Transfer Division of the American Society of Mechanical Engineers  Volume: 376-1  Pages: 99-104  Published: 2005
+ISBN: 0-7918-4221-5
+DENG Z NUMER HEAT TRANSFE B 2002 42   563
+Record 1 of 37
+Title: An Effective Finite Difference Method for Simulation of Bioheat Transfer in Irregular Tissues
+Author(s): He, ZZ (He, Zhi Zhu); Xue, X (Xue, Xu); Liu, J (Liu, Jing)
+Source: JOURNAL OF HEAT TRANSFER-TRANSACTIONS OF THE ASME  Volume: 135  Issue: 7  Article Number: 071003  DOI: 10.1115/1.4024064  Published: JUL 2013
+ISSN: 0022-1481
+Record 2 of 37
+Title: Analysis of the Spatial Power Loss Density Distribution in Bipolar Electrosurgery
+Author(s): Knopf, C (Knopf, Christoph); Himmel, J (Himmel, Joerg); Rubesam, M (Ruebesam, Markus); Klockner, S (Kloeckner, Stephan); Kanoun, O (Kanoun, Olfa)
+Source: TM-TECHNISCHES MESSEN  Volume: 80  Issue: 11  Pages: 355-363  DOI: 10.1515/teme.2013.0043  Published: 2013
+ISSN: 0171-8096
+Record 3 of 37
+Title: Ranking of parameters in bioheat transfer using Taguchi analysis
+Author(s): Jamil, M (Jamil, Muhammad); Ng, EYK (Ng, E. Y. K.)
+Source: INTERNATIONAL JOURNAL OF THERMAL SCIENCES  Volume: 63  Pages: 15-21  DOI: 10.1016/j.ijthermalsci.2012.07.002  Published: JAN 2013
+ISSN: 1290-0729
+Record 4 of 37
+Title: A FUNDAMENTAL SOLUTION-BASED FINITE ELEMENT MODEL FOR ANALYZING MULTI-LAYER SKIN BURN INJURY
+Author(s): Wang, H (Wang, Hui); Qin, QH (Qin, Qing-Hua)
+Source: JOURNAL OF MECHANICS IN MEDICINE AND BIOLOGY  Volume: 12  Issue: 5  Article Number: 1250027  DOI: 10.1142/S0219519412500273  Published: DEC 2012
+ISSN: 0219-5194
+Record 5 of 37
+Title: Numerical prediction of the intracellular ice formation zone during cryosurgery on a nodular basal cell carcinoma using liquid nitrogen spray
+Author(s): Sun, F (Sun, F.); Martinez-Suastegui, L (Martinez-Suastegui, L.); Wang, GX (Wang, G. -X.); Kelly, KM (Kelly, K. M.); Aguilar, G (Aguilar, G.)
+Source: INTERNATIONAL JOURNAL OF SPRAY AND COMBUSTION DYNAMICS  Volume: 4  Issue: 4  Pages: 341-379  Published: DEC 2012
+ISSN: 1756-8277
+Record 6 of 37
+Title: A spectral element method for solving the Pennes bioheat transfer equation by using triangular and quadrilateral elements
+Author(s): Dehghan, M (Dehghan, Mehdi); Sabouri, M (Sabouri, Mania)
+Source: APPLIED MATHEMATICAL MODELLING  Volume: 36  Issue: 12  Pages: 6031-6049  DOI: 10.1016/j.apm.2012.01.018  Published: DEC 2012
+ISSN: 0307-904X
+Record 7 of 37
+Title: Modeling and Improvement of Breast Cancer Site Temperature Profile by Implantation of Onion-Like Quantum-Dot Quantum-Well Heteronanocrystal in Tumor Site
+Author(s): SalmanOgli, A (SalmanOgli, Ahmad); Rostami, A (Rostami, Ali)
+Source: IEEE TRANSACTIONS ON NANOTECHNOLOGY  Volume: 11  Issue: 6  Pages: 1183-1191  DOI: 10.1109/TNANO.2012.2213096  Published: NOV 2012
+ISSN: 1536-125X
+Record 8 of 37
+Title: Simulation and investigation of quantum dot effects as internal heat-generator source in breast tumor site
+Author(s): Absalan, H (Absalan, H.); SalmanOgli, A (SalmanOgli, A.); Rostami, R (Rostami, R.); Maghoul, A (Maghoul, A.)
+Source: JOURNAL OF THERMAL BIOLOGY  Volume: 37  Issue: 7  Pages: 490-495  DOI: 10.1016/j.jtherbio.2012.05.001  Published: NOV 2012
+ISSN: 0306-4565
+Record 9 of 37
+Title: Numerical Study of Temperature Distribution in a Spherical Tissue in Magnetic Fluid Hyperthermia Using Lattice Boltzmann Method
+Author(s): Lahonian, M (Lahonian, Mansour); Golneshan, AA (Golneshan, Ali Akbar)
+Source: IEEE TRANSACTIONS ON NANOBIOSCIENCE  Volume: 10  Issue: 4  Pages: 262-268  DOI: 10.1109/TNB.2011.2177100  Published: DEC 2011
+ISSN: 1536-1241
+Record 10 of 37
+Title: EFFECT OF HEATED REGION ON TEMPERATURE DISTRIBUTION WITHIN TISSUE DURING MAGNETIC FLUID HYPERTHERMIA USING LATTICE BOLTZMANN METHOD
+Author(s): Golneshan, AA (Golneshan, Ali Akbar); Lahonian, M (Lahonian, Mansour)
+Source: JOURNAL OF MECHANICS IN MEDICINE AND BIOLOGY  Volume: 11  Issue: 2  Pages: 457-469  DOI: 10.1142/S0219519410003824  Published: APR 2011
+ISSN: 0219-5194
+Record 11 of 37
+Title: Three-Dimensional Numerical Simulation of Blood Flow in Two Coronary Stents
+Author(s): Gori, F (Gori, F.); Boghi, A (Boghi, A.)
+Source: NUMERICAL HEAT TRANSFER PART A-APPLICATIONS  Volume: 59  Issue: 4  Pages: 231-246  Article Number:   DOI: 10.1080/10407782.2011.541147  Published: 2011
+ISSN: 1040-7782
+Record 12 of 37
+Title: The effect of magnetic nanoparticle dispersion on temperature distribution in a spherical tissue in magnetic fluid hyperthermia using the lattice Boltzmann method
+Author(s): Golneshan, AA (Golneshan, A. A.); Lahonian, M (Lahonian, M.)
+Source: INTERNATIONAL JOURNAL OF HYPERTHERMIA  Volume: 27  Issue: 3  Pages: 266-274  DOI: 10.3109/02656736.2010.519370  Published: 2011
+ISSN: 0265-6736
+Record 13 of 37
+Title: An RBF-MFS model for analysing thermal behaviour of skin tissues
+Author(s): Cao, LL (Cao, Leilei); Qin, QH (Qin, Qing-Hua); Zhao, N (Zhao, Ning)
+Source: INTERNATIONAL JOURNAL OF HEAT AND MASS TRANSFER  Volume: 53  Issue: 7-8  Pages: 1298-1307  DOI: 10.1016/j.ijheatmasstransfer.2009.12.036  Published: MAR 2010
+ISSN: 0017-9310
+Record 14 of 37
+Title: LITERATURE SURVEY OF NUMERICAL HEAT TRANSFER (2000-2009): PART I
+Author(s): Shih, TM (Shih, Tien-Mo); Thamire, C (Thamire, Chandrasekhar); Sung, CH (Sung, Chao-Ho); Ren, AL (Ren, An-Lu)
+Source: NUMERICAL HEAT TRANSFER PART A-APPLICATIONS  Volume: 57  Issue: 3-4  Pages: 159-296  DOI: 10.1080/10407781003656827  Published: 2010
+ISSN: 1040-7782
+Record 15 of 37
+Title: Laser Interaction with Material - Theory, Experiments and Discrepancies
+Author(s): Sreckovic, M (Sreckovic, M.); Ilic, J (Ilic, J.); Davidovic, M (Davidovic, M.); Djokic, B (Djokic, B.); Tomic, Z (Tomic, Z.); Latinovic, Z (Latinovic, Z.); Druzijanic, D (Druzijanic, D.)
+Source: ACTA PHYSICA POLONICA A  Volume: 116  Issue: 4  Pages: 618-621  Published: OCT 2009
+ISSN: 0587-4246
+Record 16 of 37
+Title: A boundary element model for investigating the effects of eye tumor on the temperature distribution inside the human eye
+Author(s): Ooi, EH (Ooi, E. H.); Ang, WT (Ang, W. T.); Ng, EYK (Ng, E. Y. K.)
+Source: COMPUTERS IN BIOLOGY AND MEDICINE  Volume: 39  Issue: 8  Pages: 667-677  DOI: 10.1016/j.compbiomed.2009.04.010  Published: AUG 2009
+ISSN: 0010-4825
+Record 17 of 37
+Title: OCULAR TEMPERATURE DISTRIBUTION: A MATHEMATICAL PERSPECTIVE
+Author(s): Ooi, EH (Ooi, E. H.); Ng, EYK (Ng, E. Y. K.)
+Source: JOURNAL OF MECHANICS IN MEDICINE AND BIOLOGY  Volume: 9  Issue: 2  Special Issue: SI  Pages: 199-227  Published: JUN 2009
+ISSN: 0219-5194
+Record 18 of 37
+Title: STUDY OF THE BIOHEAT EQUATION USING MONTE CARLO SIMULATIONS FOR LOCAL MAGNETIC HYPERTHERMIA
+Author(s): Gutierrez, G (Gutierrez, Gustavo); Giordano, M (Giordano, Mauricio)
+Source: IMECE 2008: HEAT TRANSFER, FLUID FLOWS, AND THERMAL SYSTEMS, VOL 10, PTS A-C  Pages: 1279-1285  Published: 2009
+ISBN: 978-0-7918-4871-5
+Record 19 of 37
+Title: Lattice Boltzmann method for solving the bioheat equation
+Author(s): Zhang, HF (Zhang, Haifeng)
+Source: PHYSICS IN MEDICINE AND BIOLOGY  Volume: 53  Issue: 3  Pages: N15-N23  DOI: 10.1088/0031-9155/53/3/N01  Published: FEB 7 2008
+ISSN: 0031-9155
+Record 20 of 37
+Title: Sweating Feature as a Potential Index for Improving Tumor Diagnostics Using Thermal Infrared Image
+Author(s): Zhang, H (Zhang, Hui); Liu, J (Liu, Jing); Deng, ZS (Deng, Zhong-Shan); He, ZZ (He, Zhi-Zhu); Xiao, J (Xiao, Jian)
+Source: 2008 5TH INTERNATIONAL SUMMER SCHOOL AND SYMPOSIUM ON MEDICAL DEVICES AND BIOSENSORS  Pages: 22-25  DOI: 10.1109/SPAWDA.2008.4775742  Published: 2008
+ISBN: 978-1-4244-2252-4
+Record 21 of 37
+Title: Effect of Fixing Material on Skin-Contact Temperature Measurement by Wearable Sensor
+Author(s): Deng, ZS (Deng, Zhong-Shan); Liu, J (Liu, Jing)
+Source: 2008 5TH INTERNATIONAL SUMMER SCHOOL AND SYMPOSIUM ON MEDICAL DEVICES AND BIOSENSORS  Pages: 151-154  Published: 2008
+ISBN: 978-1-4244-2252-4
+Record 22 of 37
+Title: Analysis of time-dependent problems using the Exodus method
+Author(s): Sadiku, MNO (Sadiku, M. N. O.); Akujuobi, CM (Akujuobi, C. M.); Musa, SM (Musa, S. M.)
+Source: PROCEEDINGS IEEE SOUTHEASTCON 2008, VOLS 1 AND 2  Pages: 329-333  Published: 2008
+ISBN: 978-1-4244-1883-1
+Record 23 of 37
+Title: A thermal-ablation bioheat model including liquid-to-vapor phase change, pressure- and necrosis-dependent perfusion, and moisture-dependent properties
+Author(s): Abraham, JP (Abraham, J. P.); Sparrow, EM (Sparrow, E. M.)
+Source: INTERNATIONAL JOURNAL OF HEAT AND MASS TRANSFER  Volume: 50  Issue: 13-14  Pages: 2537-2544  DOI: 10.1016/j.ijheatmasstransfer.2006.11.045  Published: JUL 2007
+ISSN: 0017-9310
+Record 24 of 37
+Title: Particle-tracking random-walk computation of high-Peclet-number convection
+Author(s): Ozceyhan, V (Oezceyhan, Veysel); Sen, M (Sen, Mihir)
+Source: NUMERICAL HEAT TRANSFER PART A-APPLICATIONS  Volume: 50  Issue: 7  Pages: 607-622  DOI: 10.1080/10407780600669134  Published: OCT 15 2006
+ISSN: 1040-7782
+Record 25 of 37
+Title: Monte Carlo solution of transient heat conduction in anisotropic media
+Author(s): Kowsary, F (Kowsary, F); Irano, S (Irano, S)
+Source: JOURNAL OF THERMOPHYSICS AND HEAT TRANSFER  Volume: 20  Issue: 2  Pages: 342-346  DOI: 10.2514/1.12869  Published: APR-JUN 2006
+ISSN: 0887-8722
+Record 26 of 37
+Title: Uncertainties in the micro/nano-particles induced hyperthermia treatment on tumor subject to external EM field
+Author(s): Deng, ZS (Deng, Zhong-Shan); Liu, J (Liu, Jing)
+Source: 2006 1st IEEE International Conference on Nano/Micro Engineered and Molecular Systems, Vols 1-3  Pages: 851-855  DOI: 10.1109/NEMS.2006.334910  Published: 2006
+ISBN: 978-1-4244-0139-0
+Record 27 of 37
+Title: Capacity evaluation of a MEMS based micro cooling device using liquid metal as coolant
+Author(s): Deng, ZS (Deng, Zhong-Shan); Liu, J (Liu, Jing)
+Source: 2006 1st IEEE International Conference on Nano/Micro Engineered and Molecular Systems, Vols 1-3  Pages: 1311-1315  DOI: 10.1109/NEMS.2006.334738  Published: 2006
+ISBN: 978-1-4244-0139-0
+Record 28 of 37
+Title: New technology of functional infrared Imaging and its clinical applications - art. no. 602616
+Author(s): Yang, HQ (Yang, HQ); Xie, SS (Xie, SS); Lu, ZK (Lu, ZK); Liu, ZQ (Liu, ZQ)
+Source: ICO20: Biomedical Optics  Book Series: PROCEEDINGS OF THE SOCIETY OF PHOTO-OPTICAL INSTRUMENTATION ENGINEERS (SPIE)  Volume: 6026  Pages: 2616-2616  Article Number: 602616  DOI: 10.1117/12.667462  Published: 2006
+ISSN: 0277-786X
+ISBN: 0-8194-6057-5
+Record 29 of 37
+Title: Numerical study of the effects of large blood vessels on three-dimensional tissue temperature profiles during cryosurgery
+Author(s): Deng, ZS (Deng, ZS); Liu, J (Liu, J)
+Source: NUMERICAL HEAT TRANSFER PART A-APPLICATIONS  Volume: 49  Issue: 1  Pages: 47-67  DOI: 10.1080/10407780500301770  Published: JAN 1 2006
+ISSN: 1040-7782
+Record 30 of 37
+Title: 3-D numerical study on the induced heating effects of embedded micro/nanoparticles on human body subject to external medical electromagnetic field
+Author(s): Lv, YG (Lv, YG); Deng, ZS (Deng, ZS); Liu, J (Liu, J)
+Source: IEEE TRANSACTIONS ON NANOBIOSCIENCE  Volume: 4  Issue: 4  Pages: 284-294  DOI: 10.1109/TNB.2005.859549  Published: DEC 2005
+ISSN: 1536-1241
+Record 31 of 37
+Title: Enhancement of thermal diagnostics on tumors underneath the skin by induced evaporation
+Author(s): Deng, ZS (Deng, Zhong-Shan); Liu, J (Liu, Jing)
+Source: 2005 27TH ANNUAL INTERNATIONAL CONFERENCE OF THE IEEE ENGINEERING IN MEDICINE AND BIOLOGY SOCIETY, VOLS 1-7  Book Series: PROCEEDINGS OF ANNUAL INTERNATIONAL CONFERENCE OF THE IEEE ENGINEERING IN MEDICINE AND BIOLOGY SOCIETY  Pages: 7525-7528  Published: 2005
+ISSN: 1094-687X
+ISBN: 0-7803-8740-6
+Record 32 of 37
+Title: Numerical evaluation on the heat dissipation capability of liquid metal based chip cooling device
+Author(s): Deng, ZS (Deng, Zhong-Shan); Liu, J (Liu, Jing)
+Source: Electronic and Photonic Packaging, Integration and Packaging of MICRO/NANO/Electronic Systems  Pages: 511-515  Published: 2005
+ISBN: 0-7918-4217-7
+Record 33 of 37
+Title: Temperature nonuniformity during applying dynamic infrared thermography for tumor detection: Impact of large vessels
+Author(s): Deng, ZS (Deng, Zhong-Shan); Liu, J (Liu, Jing)
+Source: Proceedings of the ASME Heat Transfer Division 2005, Vol 1  Book Series: Heat Transfer Division of the American Society of Mechanical Engineers  Volume: 376-1  Pages: 99-104  Published: 2005
+ISBN: 0-7918-4221-5
+Record 34 of 37
+Title: Numerical simulation of 3-D freezing and heating problems for combined cryosurgery and hyperthermia therapy
+Author(s): Deng, ZS (Deng, ZS); Liu, J (Liu, J)
+Source: NUMERICAL HEAT TRANSFER PART A-APPLICATIONS  Volume: 46  Issue: 6  Pages: 587-611  DOI: 10.1080/10407780490487740  Published: OCT 2004
+ISSN: 1040-7782
+Record 35 of 37
+Title: Mathematical modeling of temperature mapping over skin surface and its implementation in thermal disease diagnostics
+Author(s): Deng, ZS (Deng, ZS); Liu, J (Liu, J)
+Source: COMPUTERS IN BIOLOGY AND MEDICINE  Volume: 34  Issue: 6  Pages: 495-521  DOI: 10.1016/S0010-4825(03)00086-6  Published: SEP 2004
+ISSN: 0010-4825
+Record 36 of 37
+Title: Modeling of multidimensional freezing problem during cryosurgery by the dual reciprocity boundary element method
+Author(s): Deng, ZS (Deng, ZS); Liu, J (Liu, J)
+Source: ENGINEERING ANALYSIS WITH BOUNDARY ELEMENTS  Volume: 28  Issue: 2  Pages: 97-108  DOI: 10.1016/S0955-7997(03)00128-0  Published: FEB 2004
+ISSN: 0955-7997
+Record 37 of 37
+Title: Monte Carlo simulation of the effects of large blood vessels during hyperthermia
+Author(s): Deng, ZS (Deng, ZS); Liu, J (Liu, J)
+Source: COMPUTATIONAL AND INFORMATION SCIENCE, PROCEEDINGS  Book Series: LECTURE NOTES IN COMPUTER SCIENCE  Volume: 3314  Pages: 437-442  Published: 2004
+ISSN: 0302-9743
+ISBN: 3-540-24127-2
+Deng, ZS J BIOMECH ENG-T ASME 2002 124 6 638
+Record 1 of 29
+Title: Control of the temperature rise in magnetic hyperthermia with use of an external static magnetic field
+Author(s): Murase, K (Murase, Kenya); Takata, H (Takata, Hiroshige); Takeuchi, Y (Takeuchi, Yuki); Saito, S (Saito, Shigeyoshi)
+Source: PHYSICA MEDICA-EUROPEAN JOURNAL OF MEDICAL PHYSICS  Volume: 29  Issue: 6  Pages: 624-630  DOI: 10.1016/j.ejmp.2012.08.005  Published: NOV 2013
+ISSN: 1120-1797
+Record 2 of 29
+Title: An Inverse Problem of Temperature Optimization in Hyperthermia by Controlling the Overall Heat Transfer Coefficient
+Author(s): Aghayan, SA (Aghayan, Seyed Ali); Sardari, D (Sardari, Dariush); Mahdavi, SRM (Mahdavi, Seyed Rabii Mahdi); Zahmatkesh, MH (Zahmatkesh, Mohammad Hasan)
+Source: JOURNAL OF APPLIED MATHEMATICS  Article Number: 734020  DOI: 10.1155/2013/734020  Published: 2013
+ISSN: 1110-757X
+Record 3 of 29
+Title: Temperature Response in Double Layer Sphere Tissue Analysis by Differential Transformation Method for Surface Heating Problems
+Author(s): Lin, SY (Lin, Song-Yih); Lai, HY (Lai, Hsin-Yi); Chen, COK (Chen, Cha'o-Kuang)
+Source: JOURNAL OF THE CHINESE SOCIETY OF MECHANICAL ENGINEERS  Volume: 33  Issue: 6  Pages: 507-516  Published: DEC 2012
+ISSN: 0257-9731
+Record 4 of 29
+Title: Monitoring of temperature distribution in living biological tissues via blood perfusion
+Author(s): Kengne, E (Kengne, E.); Lakhssassi, A (Lakhssassi, A.); Vaillancourt, R (Vaillancourt, R.); Liu, WM (Liu, W. M.)
+Source: EUROPEAN PHYSICAL JOURNAL PLUS  Volume: 127  Issue: 8  Article Number: 89  DOI: 10.1140/epjp/i2012-12089-7  Published: AUG 2012
+ISSN: 2190-5444
+Record 5 of 29
+Title: Analysis of Bio-Heat Transfer Using the Equation From the DPL Model
+Author(s): Chen, YS (Chen, Yuen-Shin); Liu, KC (Liu, Kuo-Chi)
+Source: JOURNAL OF THE CHINESE SOCIETY OF MECHANICAL ENGINEERS  Volume: 33  Issue: 2  Pages: 133-140  Published: APR 2012
+ISSN: 0257-9731
+Record 6 of 29
+Title: Analytical study on optimal distribution of heating power in hyperthermia
+Author(s): Dhar, P (Dhar, Piyanka); Dhar, R (Dhar, Rikhiya); Dhar, R (Dhar, Ranajit)
+Source: INTERNATIONAL COMMUNICATIONS IN HEAT AND MASS TRANSFER  Volume: 39  Issue: 3  Pages: 419-423  DOI: 10.1016/j.icheatmasstransfer.2012.01.002  Published: MAR 2012
+ISSN: 0735-1933
+Record 7 of 29
+Title: Numerical study of the solidification process in biological tissue with blood flow and metabolism effects by the dual phase lag model
+Author(s): Moradi, A (Moradi, Amir); Ahmadikia, H (Ahmadikia, Hossein)
+Source: PROCEEDINGS OF THE INSTITUTION OF MECHANICAL ENGINEERS PART H-JOURNAL OF ENGINEERING IN MEDICINE  Volume: 226  Issue: H5  Pages: 406-416  DOI: 10.1177/0954411912441305  Published: 2012
+ISSN: 0954-4119
+Record 8 of 29
+Title: Review: Therapeutical Applications of Heat in Cancer Therapy
+Author(s): Huang, HW (Huang, Huang-Wen); Liauh, CT (Liauh, Chihng-Tsung)
+Source: JOURNAL OF MEDICAL AND BIOLOGICAL ENGINEERING  Volume: 32  Issue: 1  Pages: 1-10  DOI: 10.5405/jmbe.932  Published: 2012
+ISSN: 1609-0985
+Record 9 of 29
+Title: A two-layer model of laser interaction with skin A photothermal effect analysis
+Author(s): Guan, KW (Guan, Kui-Wen); Jiang, YQ (Jiang, Yan-Qi); Sun, CS (Sun, Chang-Sen); Yu, H (Yu, Hong)
+Source: OPTICS AND LASER TECHNOLOGY  Volume: 43  Issue: 3  Pages: 425-429  DOI: 10.1016/j.optlastec.2009.12.007  Published: APR 2011
+ISSN: 0030-3992
+Record 10 of 29
+Title: Surface Heating Problems of Thermal Propagation in Living Tissue Solved by Differential Transformation Method
+Author(s): Ni, JH (Ni, Jui-Hsun); Chang, CC (Chang, Cheng-Chi); Yang, YT (Yang, Yue-Tzu); Chen, CK (Chen, Cha'o-Kung)
+Source: CMES-COMPUTER MODELING IN ENGINEERING & SCIENCES  Volume: 72  Issue: 1  Pages: 37-51  Published: FEB 2011
+ISSN: 1526-1492
+Record 11 of 29
+Title: Thermal analysis of a three-dimensional breast model with embedded tumour using the transmission line matrix (TLM) method
+Author(s): Amri, A (Amri, A.); Saidane, A (Saidane, A.); Pulko, S (Pulko, S.)
+Source: COMPUTERS IN BIOLOGY AND MEDICINE  Volume: 41  Issue: 2  Pages: 76-86  DOI: 10.1016/j.compbiomed.2010.12.002  Published: FEB 2011
+ISSN: 0010-4825
+Record 12 of 29
+Title: NEURAL NETWORK APPROACH FOR THE DETERMINATION OF HEAT SOURCE PARAMETERS FROM SURFACE TEMPERATURE IMAGE
+Author(s): Hossain, S (Hossain, S.); Mohammadi, FA (Mohammadi, F. A.); Nejad, ET (Nejad, E. Talebi)
+Source: 2011 24TH CANADIAN CONFERENCE ON ELECTRICAL AND COMPUTER ENGINEERING (CCECE)  Book Series: Canadian Conference on Electrical and Computer Engineering  Pages: 1109-1112  Published: 2011
+ISSN: 0840-7789
+ISBN: 978-1-4244-9789-8
+Record 13 of 29
+Title: Medical Thermal Imaging of Electrically Stimulated Woman Breast: a simulation study
+Author(s): Carlak, HF (Carlak, H. Feza); Gencer, NG (Gencer, Nevzat G.); Besikci, C (Besikci, Cengiz)
+Source: 2011 ANNUAL INTERNATIONAL CONFERENCE OF THE IEEE ENGINEERING IN MEDICINE AND BIOLOGY SOCIETY (EMBC)  Book Series: IEEE Engineering in Medicine and Biology Society Conference Proceedings  Pages: 4905-4908  Published: 2011
+ISSN: 1557-170X
+ISBN: 978-1-4244-4122-8
+Record 14 of 29
+Title: Relationships of skin depths and temperatures when varying pulse repetition frequencies from 2.0-mu m laser light incident on pig skin
+Author(s): Schaaf, D (Schaaf, David); Johnson, T (Johnson, Thomas)
+Source: JOURNAL OF BIOMEDICAL OPTICS  Volume: 15  Issue: 4  Article Number: 045007  DOI: 10.1117/1.3477324  Published: JUL-AUG 2010
+ISSN: 1083-3668
+Record 15 of 29
+Title: A review of heat transfer in human tooth-Experimental characterization and mathematical modeling
+Author(s): Lin, M (Lin, Min); Xu, F (Xu, Feng); Lu, TJ (Lu, Tian Jian); Bai, BF (Bai, Bo Feng)
+Source: DENTAL MATERIALS  Volume: 26  Issue: 6  Pages: 501-513  DOI: 10.1016/j.dental.2010.02.009  Published: JUN 2010
+ISSN: 0109-5641
+Record 16 of 29
+Title: Optimal control for bio-heat equation due to induced microwave
+Author(s): Dhar, P (Dhar, Piyanka); Dhar, R (Dhar, Ranajit)
+Source: APPLIED MATHEMATICS AND MECHANICS-ENGLISH EDITION  Volume: 31  Issue: 4  Pages: 529-534  DOI: 10.1007/s10483-010-0413-x  Published: APR 2010
+ISSN: 0253-4827
+Record 17 of 29
+Title: Fundamental solutions to the bioheat equation and their application to magnetic fluid hyperthermia
+Author(s): Giordano, MA (Giordano, Mauricio A.); Gutierrez, G (Gutierrez, Gustavo); Rinaldi, C (Rinaldi, Carlos)
+Source: INTERNATIONAL JOURNAL OF HYPERTHERMIA  Volume: 26  Issue: 5  Pages: 475-484  DOI: 10.3109/02656731003749643  Published: 2010
+ISSN: 0265-6736
+Record 18 of 29
+Title: Suitability of using far-infrared imaging system for noncontact evaluation on working state of implantable medical devices
+Author(s): Yang, Y (Yang, Yang); Wei, XJ (Wei, Xiao-Juan); Liu, J (Liu, Jing)
+Source: JOURNAL OF APPLIED PHYSICS  Volume: 105  Issue: 6  Article Number: 064701  DOI: 10.1063/1.3093868  Published: MAR 15 2009
+ISSN: 0021-8979
+Record 19 of 29
+Title: Exact analytical solution to three-dimensional phase change heat transfer problems in biological tissues subject to freezing
+Author(s): Li, FF (Li, Fang-fang); Liu, J (Liu, Jing); Yue, K (Yue, Kai)
+Source: APPLIED MATHEMATICS AND MECHANICS-ENGLISH EDITION  Volume: 30  Issue: 1  Pages: 63-72  DOI: 10.1007/s10483-009-0107-x  Published: JAN 2009
+ISSN: 0253-4827
+Record 20 of 29
+Title: A Sequential Method to Estimate the Strength of Heat Source of Inverse Bioheat Transfer Problem
+Author(s): Shiau, MJ (Shiau, Meei-jy); Yang, CY (Yang, Ching-yu)
+Source: NUMERICAL ANALYSIS AND APPLIED MATHEMATICS, VOLS 1 AND 2  Book Series: AIP Conference Proceedings  Volume: 1168  Pages: 415-419  Published: 2009
+ISSN: 0094-243X
+ISBN: 978-0-7354-0709-1
+Record 21 of 29
+Title: Approximate Analytical Solution for Tissue Temperature Distribution in High-Intensity Focused Ultrasound
+Author(s): Li, DH (Li, Dehui); Shen, GF (Shen, Guofeng); Bai, JF (Bai, Jingfeng); Chen, YZ (Chen, Yazhu)
+Source: PROCEEDINGS OF THE 2009 2ND INTERNATIONAL CONFERENCE ON BIOMEDICAL ENGINEERING AND INFORMATICS, VOLS 1-4  Pages: 1321-1325  Published: 2009
+ISBN: 978-1-4244-4133-4
+Record 22 of 29
+Title: Numerical Study on the Multi-Region Bio-Heat Equation to Model Magnetic Fluid Hyperthermia (MFH) Using Low Curie Temperature Nanoparticles
+Author(s): Zhang, CQ (Zhang, Chuanqian); Johnson, DT (Johnson, Duane T.); Brazel, CS (Brazel, Christopher S.)
+Source: IEEE TRANSACTIONS ON NANOBIOSCIENCE  Volume: 7  Issue: 4  Pages: 267-275  DOI: 10.1109/TNB.2008.2011857  Published: DEC 2008
+ISSN: 1536-1241
+Record 23 of 29
+Title: Thermal propagation analysis for living tissue with surface heating
+Author(s): Liu, KC (Liu, Kuo-Chi)
+Source: INTERNATIONAL JOURNAL OF THERMAL SCIENCES  Volume: 47  Issue: 5  Pages: 507-513  DOI: 10.1016/j.ijthermaisci.2007.04.005  Published: MAY 2008
+ISSN: 1290-0729
+Record 24 of 29
+Title: Biothermomechanics of skin tissues
+Author(s): Xu, F (Xu, F.); Lu, TJ (Lu, T. J.); Seffen, KA (Seffen, K. A.)
+Source: JOURNAL OF THE MECHANICS AND PHYSICS OF SOLIDS  Volume: 56  Issue: 5  Pages: 1852-1884  DOI: 10.1016/j.jmps.2007.11.011  Published: MAY 2008
+ISSN: 0022-5096
+Record 25 of 29
+Title: Didactic software for modeling heating patterns in tissues irradiated by therapeutic ultrasound
+Author(s): Maggi, LE (Maggi, L. E.); Omena, TP (Omena, T. P.); Von Kruger, MA (Von Krueger, M. A.); Pereira, WCA (Pereira, W. C. A.)
+Source: REVISTA BRASILEIRA DE FISIOTERAPIA  Volume: 12  Issue: 3  Pages: 204-214  Published: MAY-JUN 2008
+ISSN: 1413-3555
+Record 26 of 29
+Title: Experimental measurements and numerical modeling validation of temperature distribution in tissue medium during short pulse laser irradiation
+Author(s): Dutta, A (Dutta, Ashim); Kim, KH (Kim, Kyunghan); Mitra, K (Mitra, Kunal); Guo, ZX (Guo, Zhixiong)
+Source: PROCEEDINGS OF THE ASME INTERNATIONAL MECHANICAL ENGINEERING CONGRESS AND EXPOSITION 2007, VOL 2: BIOMEDICAL AND BIOTECHNOLOGY ENGINEERING  Pages: 9-16  Published: 2008
+ISBN: 978-0-7918-4296-6
+Record 27 of 29
+Title: A novel modeling and simulation technique of photo-thermal interactions between lasers and living biological tissues undergoing multiple changes in phase
+Author(s): Dua, RJ (Dua, RJ); Chakraborty, S (Chakraborty, S)
+Source: COMPUTERS IN BIOLOGY AND MEDICINE  Volume: 35  Issue: 5  Pages: 447-462  DOI: 10.1016/j.compbiomed.2004.02.005  Published: JUN 2005
+ISSN: 0010-4825
+Record 28 of 29
+Title: Transient solution to the bioheat equation and optimization for magnetic fluid hyperthermia treatment
+Author(s): Bagaria, HG (Bagaria, HG); Johnson, DT (Johnson, DT)
+Source: INTERNATIONAL JOURNAL OF HYPERTHERMIA  Volume: 21  Issue: 1  Pages: 57-75  DOI: 10.1080/02656730410001726956  Published: FEB 2005
+ISSN: 0265-6736
+Record 29 of 29
+Title: Application of fractional calculus in modeling and solving the bioheat equation
+Author(s): Magin, R (Magin, R); Sagher, Y (Sagher, Y); Boregowda, S (Boregowda, S)
+Source: DESIGN AND NATURE II: COMPARING DESIGN IN NATURE WITH SCIENCE AND ENGINEERING  Book Series: DESIGN AND NATURE  Volume: 6  Pages: 207-216  Published: 2004
+ISSN: 1478-0585
+ISBN: 1-85312-721-3
+Deng, ZS PHYSICA A 2001 300 3-4 521
+Record 1 of 26
+Title: Conventional and newly developed bioheat transport models in vascularized tissues: A review
+Author(s): Bhowmik, A (Bhowmik, Arka); Singh, R (Singh, Rupesh); Repaka, R (Repaka, Ramjee); Mishra, SC (Mishra, Subhash C.)
+Source: JOURNAL OF THERMAL BIOLOGY  Volume: 38  Issue: 3  Pages: 107-125  DOI: 10.1016/j.jtherbio.2012.12.003  Published: APR 2013
+ISSN: 0306-4565
+Record 2 of 26
+Title: The optimization of needle electrode number and placement for irreversible electroporation of hepatocellular carcinoma
+Author(s): Adeyanju, OO (Adeyanju, Oyinlolu O.); Al-Angari, HM (Al-Angari, Haitham M.); Sahakian, AV (Sahakian, Alan V.)
+Source: RADIOLOGY AND ONCOLOGY  Volume: 46  Issue: 2  Pages: 126-135  DOI: 10.2478/v10019-012-0026-y  Published: JUN 2012
+ISSN: 1318-2099
+Record 3 of 26
+Title: Theoretical assessment of principal factors influencing laser interstitial thermotherapy outcomes on pancreas
+Author(s): Saccomancli, P (Saccomancli, P.); Schena, E (Schena, E.); Di Matteo, FM (Di Matteo, F. M.); Pandolfi, M (Pandolfi, M.); Martino, M (Martino, M.); Rea, R (Rea, R.); Panzera, F (Panzera, F.); Silvestri, S (Silvestri, S.)
+Source: 2012 ANNUAL INTERNATIONAL CONFERENCE OF THE IEEE ENGINEERING IN MEDICINE AND BIOLOGY SOCIETY (EMBC)  Book Series: IEEE Engineering in Medicine and Biology Society Conference Proceedings  Pages: 5687-5690  Published: 2012
+ISSN: 1557-170X
+ISBN: 978-1-4577-1787-1
+Record 4 of 26
+Title: The Improvement of Irreversible Electroporation Therapy Using Saline-Irrigated Electrodes: A Theoretical Study
+Author(s): Adeyanju, OO (Adeyanju, O. O.); Al-Angari, HM (Al-Angari, H. M.); Sahakian, AV (Sahakian, A. V.)
+Source: TECHNOLOGY IN CANCER RESEARCH & TREATMENT  Volume: 10  Issue: 4  Pages: 347-360  Published: AUG 2011
+ISSN: 1533-0346
+Record 5 of 26
+Title: Laser Interstitial Thermotherapy for pancreatic tumor ablation: theoretical model and experimental validation
+Author(s): Saccomandi, P (Saccomandi, P.); Schena, E (Schena, E.); Di Matteo, FM (Di Matteo, F. M.); Pandolfi, M (Pandolfi, M.); Martino, M (Martino, M.); Rea, R (Rea, R.); Silvestri, S (Silvestri, S.)
+Source: 2011 ANNUAL INTERNATIONAL CONFERENCE OF THE IEEE ENGINEERING IN MEDICINE AND BIOLOGY SOCIETY (EMBC)  Book Series: IEEE Engineering in Medicine and Biology Society Conference Proceedings  Pages: 5585-5588  Published: 2011
+ISSN: 1557-170X
+ISBN: 978-1-4244-4122-8
+Record 6 of 26
+Title: Towards the creation of decellularized organ constructs using irreversible electroporation and active mechanical perfusion
+Author(s): Sano, MB (Sano, Michael B.); Neal, RE (Neal, Robert E., II); Garcia, PA (Garcia, Paulo A.); Gerber, D (Gerber, David); Robertson, J (Robertson, John); Davalos, RV (Davalos, Rafael V.)
+Source: BIOMEDICAL ENGINEERING ONLINE  Volume: 9  Article Number: 83  DOI: 10.1186/1475-925X-9-83  Published: DEC 10 2010
+ISSN: 1475-925X
+Record 7 of 26
+Title: Preclinical Analysis of Irreversible Electroporation on Rat Liver Tissues Using a Microfabricated Electroporator
+Author(s): Choi, YS (Choi, Youn-Suk); Kim, HB (Kim, Hong-Bae); Chung, J (Chung, Junho); Kim, HS (Kim, Hyung-Sik); Yi, JH (Yi, Jeong-Han); Park, JK (Park, Je-Kyun)
+Source: TISSUE ENGINEERING PART C-METHODS  Volume: 16  Issue: 6  Pages: 1245-1253  DOI: 10.1089/ten.tec.2009.0803  Published: DEC 2010
+ISSN: 1937-3384
+Record 8 of 26
+Title: Hybrid integral transforms analysis of the bioheat equation with variable properties
+Author(s): Cotta, RM (Cotta, Renato M.); Cotta, BP (Cotta, Bianca P.); Naveira-Cotta, CP (Naveira-Cotta, Carolina P.); Cotta-Pereira, G (Cotta-Pereira, Gerson)
+Source: INTERNATIONAL JOURNAL OF THERMAL SCIENCES  Volume: 49  Issue: 9  Pages: 1510-1516  DOI: 10.1016/j.ijthermalsci.2010.04.019  Published: SEP 2010
+ISSN: 1290-0729
+Record 9 of 26
+Title: Mathematical Modeling of Skin Bioheat Transfer
+Author(s): Xu, F (Xu, F.); Lu, TJ (Lu, T. J.); Seffen, KA (Seffen, K. A.); Ng, EYK (Ng, E. Y. K.)
+Source: APPLIED MECHANICS REVIEWS  Volume: 62  Issue: 5  Article Number: 050801  DOI: 10.1115/1.3124646  Published: SEP 2009
+ISSN: 0003-6900
+Record 10 of 26
+Title: Temperature considerations during irreversible electroporation
+Author(s): Davalos, RV (Davalos, Rafael V.); Rubinsky, B (Rubinsky, Boris)
+Source: INTERNATIONAL JOURNAL OF HEAT AND MASS TRANSFER  Volume: 51  Issue: 23-24  Pages: 5617-5622  DOI: 10.1016/j.ijheatmasstransfer.2008.04.046  Published: NOV 2008
+ISSN: 0017-9310
+Record 11 of 26
+Title: Computational modeling of biomagnetic micropolar blood flow and heat transfer in a two-dimensional non-Darcian porous medium
+Author(s): Beg, OA (Beg, O. Anwar); Bhargava, R (Bhargava, R.); Rawat, S (Rawat, S.); Halim, K (Halim, Kalim); Takhar, HS (Takhar, H. S.)
+Source: MECCANICA  Volume: 43  Issue: 4  Pages: 391-410  DOI: 10.1007/s11012-007-9102-6  Published: AUG 2008
+ISSN: 0025-6455
+Record 12 of 26
+Title: Skin heat transfer model of facial thermograms and its application in face recognition
+Author(s): Wu, SQ (Wu, Shiqian); Lin, WS (Lin, Weisi); Xie, SL (Xie, Shoulie)
+Source: PATTERN RECOGNITION  Volume: 41  Issue: 8  Pages: 2718-2729  DOI: 10.1016/j.patcog.2008.01.003  Published: AUG 2008
+ISSN: 0031-3203
+Record 13 of 26
+Title: Effect of variable heat transfer coefficient on tissue temperature next to a large vessel during radiofrequency tumor ablation
+Author(s): dos Santos, I (dos Santos, Icaro); Haemmerich, D (Haemmerich, Dieter); Pinheiro, CD (Pinheiro, Cleber da Silva); da Rocha, AF (da Rocha, Adson Ferreira)
+Source: BIOMEDICAL ENGINEERING ONLINE  Volume: 7  Article Number: 21  DOI: 10.1186/1475-925X-7-21  Published: JUL 11 2008
+ISSN: 1475-925X
+Record 14 of 26
+Title: Non-Fourier analysis of skin biothermomechanics
+Author(s): Xu, F (Xu, F.); Seffen, KA (Seffen, K. A.); Lu, TJ (Lu, T. J.)
+Source: INTERNATIONAL JOURNAL OF HEAT AND MASS TRANSFER  Volume: 51  Issue: 9-10  Pages: 2237-2259  DOI: 10.1016/j.ijheatmasstransfer.2007.10.024  Published: MAY 2008
+ISSN: 0017-9310
+Record 15 of 26
+Title: Focal plane array based infrared thermography in fine physical experiment
+Author(s): Vainer, BG (Vainer, Boris G.)
+Source: JOURNAL OF PHYSICS D-APPLIED PHYSICS  Volume: 41  Issue: 6  Article Number: 065102  DOI: 10.1088/0022-3727/41/6/065102  Published: MAR 21 2008
+ISSN: 0022-3727
+Record 16 of 26
+Title: Biothermomechanical behavior of skin tissue
+Author(s): Xu, F (Xu, F.); Lu, TJ (Lu, T. J.); Seffen, KA (Seffen, K. A.)
+Source: ACTA MECHANICA SINICA  Volume: 24  Issue: 1  Pages: 1-23  DOI: 10.1007/s10409-007-0128-8  Published: FEB 2008
+ISSN: 0567-7718
+Record 17 of 26
+Title: Tumor Ablation with Irreversible Electroporation
+Author(s): Al-Sakere, B (Al-Sakere, Bassim); Andre, F (Andre, Franck); Bernat, C (Bernat, Claire); Connault, E (Connault, Elisabeth); Opolon, P (Opolon, Paule); Davalos, RV (Davalos, Rafael V.); Rubinsky, B (Rubinsky, Boris); Mir, LM (Mir, Lluis M.)
+Source: PLOS ONE  Volume: 2  Issue: 11  Article Number: e1135  DOI: 10.1371/journal.pone.0001135  Published: NOV 7 2007
+ISSN: 1932-6203
+Record 18 of 26
+Title: Mathematical Modeling of irreversible Electroporation for treatment planning
+Author(s): Edd, JF (Edd, Jon F.); Davalos, RV (Davalos, Rafael V.)
+Source: TECHNOLOGY IN CANCER RESEARCH & TREATMENT  Volume: 6  Issue: 4  Pages: 275-286  Published: AUG 2007
+ISSN: 1533-0346
+Record 19 of 26
+Title: In vivo results of a new focal tissue ablation technique: Irreversible electroporation
+Author(s): Edd, JF (Edd, JF); Horowitz, L (Horowitz, L); Davalos, RV (Davalos, RV); Mir, LM (Mir, LM); Rubinsky, B (Rubinsky, B)
+Source: IEEE TRANSACTIONS ON BIOMEDICAL ENGINEERING  Volume: 53  Issue: 7  Pages: 1409-1415  DOI: 10.1109/TMBE.2006.873745  Published: JUL 2006
+ISSN: 0018-9294
+Record 20 of 26
+Title: An analytical study of 'Poisson conduction shape factors' for two thermally significant vessels in a finite, heated tissue
+Author(s): Shrivastava, D (Shrivastava, D); Roemer, RB (Roemer, RB)
+Source: PHYSICS IN MEDICINE AND BIOLOGY  Volume: 50  Issue: 15  Pages: 3627-3641  DOI: 10.1088/0031-9155/50/15/010  Published: AUG 7 2005
+ISSN: 0031-9155
+Record 21 of 26
+Title: Temperature dependence of tissue impedivity in electrical impedance tomography of cryosurgery
+Author(s): Edd, JF (Edd, JF); Horowitz, L (Horowitz, L); Rubinsky, B (Rubinsky, B)
+Source: IEEE TRANSACTIONS ON BIOMEDICAL ENGINEERING  Volume: 52  Issue: 4  Pages: 695-701  DOI: 10.1109/TBME.2005.844042  Published: APR 2005
+ISSN: 0018-9294
+Record 22 of 26
+Title: Tissue ablation with irreversible electroporation
+Author(s): Davalos, RV (Davalos, RV); Mir, LM (Mir, LM); Rubinsky, B (Rubinsky, B)
+Source: ANNALS OF BIOMEDICAL ENGINEERING  Volume: 33  Issue: 2  Pages: 223-231  DOI: 10.1007/s10439-005-8981-8  Published: FEB 2005
+ISSN: 0090-6964
+Record 23 of 26
+Title: Temperature nonuniformity during applying dynamic infrared thermography for tumor detection: Impact of large vessels
+Author(s): Deng, ZS (Deng, Zhong-Shan); Liu, J (Liu, Jing)
+Source: Proceedings of the ASME Heat Transfer Division 2005, Vol 1  Book Series: Heat Transfer Division of the American Society of Mechanical Engineers  Volume: 376-1  Pages: 99-104  Published: 2005
+ISBN: 0-7918-4221-5
+Record 24 of 26
+Title: The role of porous media in modeling flow and heat transfer in biological tissues
+Author(s): Khaled, ARA (Khaled, ARA); Vafai, K (Vafai, K)
+Source: INTERNATIONAL JOURNAL OF HEAT AND MASS TRANSFER  Volume: 46  Issue: 26  Pages: 4989-5003  DOI: 10.1016/S0017-9310(03)00301-6  Published: DEC 2003
+ISSN: 0017-9310
+Record 25 of 26
+Title: Theoretical analysis of the thermal effects during in vivo tissue electroporation
+Author(s): Davalos, RV (Davalos, RV); Rubinsky, B (Rubinsky, B); Lir, LM (Lir, LM)
+Source: BIOELECTROCHEMISTRY  Volume: 61  Issue: 1-2  Pages: 99-107  DOI: 10.1016/j.bioelechem.2003.07.001  Published: OCT 2003
+ISSN: 1567-5394
+Record 26 of 26
+Title: Heat transfer - a review of 2001 literature
+Author(s): Goldstein, RJ (Goldstein, RJ); Eckert, ERG (Eckert, ERG); Ibele, WE (Ibele, WE); Patankar, SV (Patankar, SV); Simon, TW (Simon, TW); Kuehn, TH (Kuehn, TH); Strykowski, PJ (Strykowski, PJ); Tamma, KK (Tamma, KK); Heberlein, JVR (Heberlein, JVR); Davidson, JH (Davidson, JH); Bischof, J (Bischof, J); Kulacki, FA (Kulacki, FA); Kortshagen, U (Kortshagen, U); Garrick, S (Garrick, S)
+Source: INTERNATIONAL JOURNAL OF HEAT AND MASS TRANSFER  Volume: 46  Issue: 11  Pages: 1887-1992  DOI: 10.1016/S0017-9310(02)00529-X  Published: MAY 2003
+ISSN: 0017-9310
+Liu, J J BIOMECH 2001 34 12 1637
+Record 1 of 22
+Title: Investigating the cryoablative efficacy of a hybrid cryoprobe operating under freeze-thaw cycles
+Author(s): Zhao, X (Zhao, X.); Chua, KJ (Chua, K. J.)
+Source: CRYOBIOLOGY  Volume: 66  Issue: 3  Pages: 239-249  DOI: 10.1016/j.cryobiol.2013.02.004  Published: JUN 2013
+ISSN: 0011-2240
+Record 2 of 22
+Title: A spectral element method for solving the Pennes bioheat transfer equation by using triangular and quadrilateral elements
+Author(s): Dehghan, M (Dehghan, Mehdi); Sabouri, M (Sabouri, Mania)
+Source: APPLIED MATHEMATICAL MODELLING  Volume: 36  Issue: 12  Pages: 6031-6049  DOI: 10.1016/j.apm.2012.01.018  Published: DEC 2012
+ISSN: 0307-904X
+Record 3 of 22
+Title: Uncertainty and sensitivity analysis of properties of phase change micro/nanoparticles for thermal protection during cryosurgery
+Author(s): Lv, YG (Lv, Yonggang); Zou, Y (Zou, Yang); Yang, L (Yang, Li)
+Source: FORSCHUNG IM INGENIEURWESEN-ENGINEERING RESEARCH  Volume: 76  Issue: 1-2  Pages: 41-50  DOI: 10.1007/s10010-012-0153-z  Published: JUN 2012
+ISSN: 0015-7899
+Record 4 of 22
+Title: Development and Uncertainty Analysis of an Automatic Testing System for Diffusion Pump Performance
+Author(s): Zhang, SW (Zhang, S. W.); Liang, WS (Liang, W. S.); Zhang, ZJ (Zhang, Z. J.)
+Source: 18TH INTERNATIONAL VACUUM CONGRESS (IVC-18)  Book Series: Physics Procedia  Volume: 32  Pages: 255-264  DOI: 10.1016/j.phpro.2012.03.552  Published: 2012
+ISSN: 1875-3892
+Record 5 of 22
+Title: Review: Therapeutical Applications of Heat in Cancer Therapy
+Author(s): Huang, HW (Huang, Huang-Wen); Liauh, CT (Liauh, Chihng-Tsung)
+Source: JOURNAL OF MEDICAL AND BIOLOGICAL ENGINEERING  Volume: 32  Issue: 1  Pages: 1-10  DOI: 10.5405/jmbe.932  Published: 2012
+ISSN: 1609-0985
+Record 6 of 22
+Title: Analytical solution of the parabolic and hyperbolic heat transfer equations with constant and transient heat flux conditions on skin tissue
+Author(s): Ahmadikia, H (Ahmadikia, H.); Fazlali, R (Fazlali, R.); Moradi, A (Moradi, A.)
+Source: INTERNATIONAL COMMUNICATIONS IN HEAT AND MASS TRANSFER  Volume: 39  Issue: 1  Pages: 121-130  DOI: 10.1016/j.icheatmasstransfer.2011.09.016  Published: JAN 2012
+ISSN: 0735-1933
+Record 7 of 22
+Title: Uncertainty Analysis of Thermal Protection by Microencapsulated Phase Change Micro/nanoparticles during Hyperthermia
+Author(s): Lv, YG (Lv, Yonggang); Zou, Y (Zou, Yang); Yang, L (Yang, Li)
+Source: MATERIALS PROCESSING TECHNOLOGY, PTS 1-4  Book Series: Advanced Materials Research  Volume: 291-294  Pages: 1816-1819  DOI: 10.4028/www.scientific.net/AMR.291-294.1816  Part: 1-4  Published: 2011
+ISSN: 1022-6680
+ISBN: 978-3-03785-193-7
+Record 8 of 22
+Title: Nano-Cryosurgery: Advances and Challenges
+Author(s): Liu, J (Liu, Jing); Deng, ZS (Deng, Zhong-Shan)
+Source: JOURNAL OF NANOSCIENCE AND NANOTECHNOLOGY  Volume: 9  Issue: 8  Pages: 4521-4542  DOI: 10.1166/jnn.2009.1264  Published: AUG 2009
+ISSN: 1533-4880
+Record 9 of 22
+Title: Prediction of skin temperature distribution in cosmetic laser surgery
+Author(s): Ting, K (Ting, Kuen); Chen, KT (Chen, Kuen-Tasnn); Cheng, SF (Cheng, Shih-Feng); Lin, WS (Lin, Wen-Shiung); Chang, CR (Chang, Cheng-Ren)
+Source: JAPANESE JOURNAL OF APPLIED PHYSICS  Volume: 47  Issue: 1  Pages: 361-367  DOI: 10.1143/JJAP.47.361  Part: 1  Published: JAN 2008
+ISSN: 0021-4922
+Record 10 of 22
+Title: UNCERTAINTY ANALYSIS IN BIOHEAT TRANSFER MODELING FOR TREATMENT PLANNING OF NANO-CRYOSURGERY
+Author(s): Deng, ZS (Deng, Zhong-Shan); Liu, J (Liu, Jing)
+Source: MicroNano2008-2nd International Conference on Integration and Commercialization of Micro and Nanosystems, Proceedings  Pages: 411-412  DOI: 10.1115/MicroNano2008-70269  Published: 2008
+ISBN: 978-0-7918-4294-2
+Record 11 of 22
+Title: Measurement of local tissue perfusion through a minimally invasive heating bead
+Author(s): Lv, YG (Lv, Yong-Gang); Liu, J (Liu, Jing)
+Source: HEAT AND MASS TRANSFER  Volume: 44  Issue: 2  Pages: 201-211  DOI: 10.1007/s00231-007-0233-z  Published: DEC 2007
+ISSN: 0947-7411
+Record 12 of 22
+Title: Analytical analysis of the Pennes bioheat transfer equation with sinusoidal heat flux condition on skin surface
+Author(s): Shih, TC (Shih, Tzu-Ching); Yuan, P (Yuan, Ping); Lin, WL (Lin, Win-Li); Kou, HS (Kou, Hong-Sen)
+Source: MEDICAL ENGINEERING & PHYSICS  Volume: 29  Issue: 9  Pages: 946-953  DOI: 10.1016/j.medengphy.2006.10.008  Published: NOV 2007
+ISSN: 1350-4533
+Record 13 of 22
+Title: Uncertainties in the micro/nano-particles induced hyperthermia treatment on tumor subject to external EM field
+Author(s): Deng, ZS (Deng, Zhong-Shan); Liu, J (Liu, Jing)
+Source: 2006 1st IEEE International Conference on Nano/Micro Engineered and Molecular Systems, Vols 1-3  Pages: 851-855  DOI: 10.1109/NEMS.2006.334910  Published: 2006
+ISBN: 978-1-4244-0139-0
+Record 14 of 22
+Title: Effects of laser acupuncture on blood perfusion rate - art. no. 604701
+Author(s): Wang, XJ (Wang, Xian-ju); Zeng, CC (Zeng, Chang-chun); Liu, HP (Liu, Han-ping); Liu, SH (Liu, Song-hao); Liu, LG (Liu, Liang-gang)
+Source: Fourth International Conference on Photonics and Imaging in Biology and Medicine, Pts 1 and 2  Book Series: PROCEEDINGS OF THE SOCIETY OF PHOTO-OPTICAL INSTRUMENTATION ENGINEERS (SPIE)  Volume: 6047  Pages: 4701-4701  Article Number: 604701  DOI: 10.1117/12.709706  Part: 1&2  Published: 2006
+ISSN: 0277-786X
+ISBN: 0-8194-6080-X
+Record 15 of 22
+Title: Regional temperature changes in the brain during somatosensory stimulation
+Author(s): Trubel, HKF (Trubel, HKF); Sacolick, LI (Sacolick, LI); Hyder, F (Hyder, F)
+Source: JOURNAL OF CEREBRAL BLOOD FLOW AND METABOLISM  Volume: 26  Issue: 1  Pages: 68-78  DOI: 10.1038/sj.jcbfm.9600164  Published: JAN 2006
+ISSN: 0271-678X
+Record 16 of 22
+Title: A numerical study of a 3D bioheat transfer problem with different spatial heating
+Author(s): Karaa, S (Karaa, S); Zhang, J (Zhang, J); Yang, FQ (Yang, FQ)
+Source: MATHEMATICS AND COMPUTERS IN SIMULATION  Volume: 68  Issue: 4  Pages: 375-388  DOI: 10.1016/j.matcom.2005.02.032  Published: MAY 16 2005
+ISSN: 0378-4754
+Record 17 of 22
+Title: Electromagnetic-thermal responses of tissues during microwave hyperthermia
+Author(s): Lee, HK (Lee, H. K.); Li, BQ (Li, B. Q.); Huo, Y (Huo, Y.)
+Source: HT2005: Proceedings of the ASME Summer Heat Transfer Conference 2005, Vol 3  Pages: 619-624  DOI: 10.1115/HT2005-72539  Published: 2005
+ISBN: 0-7918-4733-0
+Record 18 of 22
+Title: Skin thermal injury prediction with strain energy
+Author(s): Shen, WS (Shen, WS); Zhang, J (Zhang, J); Yang, FQ (Yang, FQ)
+Source: INTERNATIONAL JOURNAL OF NONLINEAR SCIENCES AND NUMERICAL SIMULATION  Volume: 6  Issue: 3  Pages: 317-328  Published: 2005
+ISSN: 1565-1339
+Record 19 of 22
+Title: The effects on the tissue temperature distribution of low-intensity laser irradiation
+Author(s): Wang, XJ (Wang, XJ); Zeng, CC (Zeng, CC); Liu, SH (Liu, SH); Liu, LG (Liu, LG)
+Source: OPTICS IN HEALTH CARE AND BIOMEDICAL OPTICS: DIAGNOSTICS AND TREATMENT II , PTS 1 AND 2  Book Series: PROCEEDINGS OF THE SOCIETY OF PHOTO-OPTICAL INSTRUMENTATION ENGINEERS (SPIE)  Volume: 5630  Pages: 780-788  DOI: 10.1117/12.576294  Part: 1&2  Published: 2005
+ISSN: 0277-786X
+ISBN: 0-8194-5585-7
+Record 20 of 22
+Title: A rate equation approach to model the denaturation or replication behavior of the SARS coronavirus
+Author(s): Liu, J (Liu, J)
+Source: FORSCHUNG IM INGENIEURWESEN-ENGINEERING RESEARCH  Volume: 68  Issue: 4  Pages: 227-238  DOI: 10.1007/s10010-004-0130-2  Published: JUL 2004
+ISSN: 0015-7899
+Record 21 of 22
+Title: A new stochastic approach to transient heat conduction modeling with uncertainty
+Author(s): Xiu, DB (Xiu, DB); Karniadakis, GE (Karniadakis, GE)
+Source: INTERNATIONAL JOURNAL OF HEAT AND MASS TRANSFER  Volume: 46  Issue: 24  Pages: 4681-4693  DOI: 10.1016/S0017-9310(03)00299-0  Published: NOV 2003
+ISSN: 0017-9310
+Record 22 of 22
+Title: Heat transfer - a review of 2001 literature
+Author(s): Goldstein, RJ (Goldstein, RJ); Eckert, ERG (Eckert, ERG); Ibele, WE (Ibele, WE); Patankar, SV (Patankar, SV); Simon, TW (Simon, TW); Kuehn, TH (Kuehn, TH); Strykowski, PJ (Strykowski, PJ); Tamma, KK (Tamma, KK); Heberlein, JVR (Heberlein, JVR); Davidson, JH (Davidson, JH); Bischof, J (Bischof, J); Kulacki, FA (Kulacki, FA); Kortshagen, U (Kortshagen, U); Garrick, S (Garrick, S)
+Source: INTERNATIONAL JOURNAL OF HEAT AND MASS TRANSFER  Volume: 46  Issue: 11  Pages: 1887-1992  DOI: 10.1016/S0017-9310(02)00529-X  Published: MAY 2003
+ISSN: 0017-9310
+Liu, J FORSCH INGENIEURWES 2000 66 1 1
+Record 1 of 28
+Title: An inverse hyperbolic heat conduction problem in estimating surface heat flux of a living skin tissue
+Author(s): Lee, HL (Lee, Haw-Long); Lai, TH (Lai, Tien-Hsing); Chen, WL (Chen, Wen-Lih); Yang, YC (Yang, Yu-Ching)
+Source: APPLIED MATHEMATICAL MODELLING  Volume: 37  Issue: 5  Pages: 2630-2643  DOI: 10.1016/j.apm.2012.06.025  Published: MAR 1 2013
+ISSN: 0307-904X
+Record 2 of 28
+Title: Numerical investigation of fast precooling of a cylindrical food product based on the hyperbolic heat conduction model
+Author(s): Al-Odat, MQ (Al-Odat, Mohammed Q.)
+Source: INTERNATIONAL JOURNAL OF NUMERICAL METHODS FOR HEAT & FLUID FLOW  Volume: 23  Issue: 6  Pages: 960-978  DOI: 10.1108/HFF-05-2011-0112  Published: 2013
+ISSN: 0961-5539
+Record 3 of 28
+Title: VARIATIONAL ITERATION METHOD FOR THERMAL DIFFUSION AND DIFFUSION THERMO EFFECTS OF THIXOTROPIC FLUID THROUGH BIOLOGICAL TISSUES WITH LASER RADIATION EXISTENCE
+Author(s): Elsa, AF (Elsa, Assma F.)
+Source: JOURNAL OF POROUS MEDIA  Volume: 16  Issue: 4  Pages: 277-289  Published: 2013
+ISSN: 1091-028X
+Record 4 of 28
+Title: Constructal Theory Applied to Vascular Countercurrent Networks
+Author(s): Dai, WZ (Dai, Weizhong)
+Source: CONSTRUCTAL LAW AND THE UNIFYING PRINCIPLE OF DESIGN  Book Series: Understanding Complex Systems Springer Complexity  Pages: 143-160  DOI: 10.1007/978-1-4614-5049-8_9  Published: 2013
+ISSN: 1860-0832
+ISBN: 978-1-4614-5048-1
+Record 5 of 28
+Title: Thermal wave model of bioheat transfer with modified Riemann-Liouville fractional derivative
+Author(s): Jiang, XY (Jiang, Xiaoyun); Qi, HT (Qi, Haitao)
+Source: JOURNAL OF PHYSICS A-MATHEMATICAL AND THEORETICAL  Volume: 45  Issue: 48  Article Number: 485101  DOI: 10.1088/1751-8113/45/48/485101  Published: DEC 7 2012
+ISSN: 1751-8113
+Record 6 of 28
+Title: Analytical solution of the parabolic and hyperbolic heat transfer equations with constant and transient heat flux conditions on skin tissue
+Author(s): Ahmadikia, H (Ahmadikia, H.); Fazlali, R (Fazlali, R.); Moradi, A (Moradi, A.)
+Source: INTERNATIONAL COMMUNICATIONS IN HEAT AND MASS TRANSFER  Volume: 39  Issue: 1  Pages: 121-130  DOI: 10.1016/j.icheatmasstransfer.2011.09.016  Published: JAN 2012
+ISSN: 0735-1933
+Record 7 of 28
+Title: Modeling Bioheat Transport at Macroscale
+Author(s): Wang, LQ (Wang, Liqiu); Fan, J (Fan, Jing)
+Source: JOURNAL OF HEAT TRANSFER-TRANSACTIONS OF THE ASME  Volume: 133  Issue: 1  Special Issue: SI  Article Number: 011010  DOI: 10.1115/1.4002361  Published: JAN 2011
+ISSN: 0022-1481
+Record 8 of 28
+Title: VASCULAR COUNTERCURRENT NETWORK FOR 3-D TRIPLE-LAYERED SKIN STRUCTURE WITH RADIATION HEATING
+Author(s): Zeng, XQ (Zeng, Xiaoqi); Dai, WZ (Dai, Weizhong); Bejan, A (Bejan, Adrian)
+Source: NUMERICAL HEAT TRANSFER PART A-APPLICATIONS  Volume: 57  Issue: 6  Pages: 369-391  DOI: 10.1080/10407781003659599  Published: 2010
+ISSN: 1040-7782
+Record 9 of 28
+Title: A New Accurate Finite-Difference Scheme for the Thermal Analysis of One-Dimensional Microspheres Exposed to Ultrashort-Pulsed Lasers
+Author(s): Dai, WZ (Dai, Weizhong); Johnson, C (Johnson, Connor)
+Source: NUMERICAL HEAT TRANSFER PART B-FUNDAMENTALS  Volume: 57  Issue: 4  Pages: 241-259  Article Number:   DOI: 10.1080/10407790.2010.489878  Published: 2010
+ISSN: 1040-7790
+Record 10 of 28
+Title: Mathematical Modeling of Skin Bioheat Transfer
+Author(s): Xu, F (Xu, F.); Lu, TJ (Lu, T. J.); Seffen, KA (Seffen, K. A.); Ng, EYK (Ng, E. Y. K.)
+Source: APPLIED MECHANICS REVIEWS  Volume: 62  Issue: 5  Article Number: 050801  DOI: 10.1115/1.3124646  Published: SEP 2009
+ISSN: 0003-6900
+Record 11 of 28
+Title: A mathematical model for skin burn injury induced by radiation heating
+Author(s): Dai, WZ (Dai, Weizhong); Wang, HJ (Wang, Haojie); Jordan, PM (Jordan, Pedro M.); Mickens, RE (Mickens, Ronald E.); Bejan, A (Bejan, Adrian)
+Source: INTERNATIONAL JOURNAL OF HEAT AND MASS TRANSFER  Volume: 51  Issue: 23-24  Pages: 5497-5510  DOI: 10.1016/j.ijheatmasstransfer.2008.01.006  Published: NOV 2008
+ISSN: 0017-9310
+Record 12 of 28
+Title: Non-Fourier analysis of skin biothermomechanics
+Author(s): Xu, F (Xu, F.); Seffen, KA (Seffen, K. A.); Lu, TJ (Lu, T. J.)
+Source: INTERNATIONAL JOURNAL OF HEAT AND MASS TRANSFER  Volume: 51  Issue: 9-10  Pages: 2237-2259  DOI: 10.1016/j.ijheatmasstransfer.2007.10.024  Published: MAY 2008
+ISSN: 0017-9310
+Record 13 of 28
+Title: A finite difference method for studying thermal deformation in a 3D thin film exposed to ultrashort pulsed lasers
+Author(s): Zhang, SY (Zhang, Suyang); Dai, WZ (Dai, Weizhong); Wang, HJ (Wang, Haojie); Melnik, RVN (Melnik, Roderick V. N.)
+Source: INTERNATIONAL JOURNAL OF HEAT AND MASS TRANSFER  Volume: 51  Issue: 7-8  Pages: 1979-1995  DOI: 10.1016/j.ijheatmasstransfer.2007.06.040  Published: APR 2008
+ISSN: 0017-9310
+Record 14 of 28
+Title: Dual-Phase-Lag model of skin bioheat transfer
+Author(s): Xu, F (Xu, Feng); Lu, TJ (Lu, Tianjian); Seffen, KA (Seffen, Keith A.)
+Source: BMEI 2008: PROCEEDINGS OF THE INTERNATIONAL CONFERENCE ON BIOMEDICAL ENGINEERING AND INFORMATICS, VOL 1  Pages: 505-511  Published: 2008
+ISBN: 978-0-7695-3118-2
+Record 15 of 28
+Title: A finite difference method for studying thermal deformation in a double-layered thin film with imperfect interfacial contact exposed to ultrashort pulsed lasers
+Author(s): Wang, HJ (Wang, Haojie); Dai, WZ (Dai, Weizhong); Hewavitharana, LG (Hewavitharana, Lionel G.)
+Source: INTERNATIONAL JOURNAL OF THERMAL SCIENCES  Volume: 47  Issue: 1  Pages: 7-24  DOI: 10.1016/j.ijthermalsci.2007.01.023  Published: JAN 2008
+ISSN: 1290-0729
+Record 16 of 28
+Title: Non-Fourier heat conduction effect on laser-induced thermal damage in biological tissues
+Author(s): Zhou, JH (Zhou, Jianhua); Zhang, YW (Zhang, Yuwen); Chen, JK (Chen, J. K.)
+Source: NUMERICAL HEAT TRANSFER PART A-APPLICATIONS  Volume: 54  Issue: 1  Pages: 1-19  DOI: 10.1080/10407780802025911  Published: 2008
+ISSN: 1040-7782
+Record 17 of 28
+Title: A finite-difference method for studying thermal deformation in a 3-D microsphere exposed to ultrashort pulsed lasers
+Author(s): Du, XD (Du, Xudong); Dai, WZ (Dai, Weizhong); Wang, P (Wang, Pan)
+Source: NUMERICAL HEAT TRANSFER PART A-APPLICATIONS  Volume: 53  Issue: 5  Pages: 457-484  DOI: 10.1080/10407780701632742  Published: 2008
+ISSN: 1040-7782
+Record 18 of 28
+Title: A finite difference method for studying thermal deformation in a double-layered thin film exposed to ultrashort pulsed lasers
+Author(s): Wang, HJ (Wang, Haojie); Dai, WZ (Dai, Weizhong); Melnik, R (Melnik, Roderick)
+Source: INTERNATIONAL JOURNAL OF THERMAL SCIENCES  Volume: 45  Issue: 12  Pages: 1179-1196  DOI: 10.1016/j.ijthermalsci.2006.03.001  Published: DEC 2006
+ISSN: 1290-0729
+Record 19 of 28
+Title: A finite difference scheme for solving parabolic two-step micro-heat transport equations in a double-layered micro-sphere heated by ultrashort-pulsed lasers
+Author(s): Dai, WZ (Dai, Weizhong); Li, G (Li, Guang)
+Source: NUMERICAL METHODS FOR PARTIAL DIFFERENTIAL EQUATIONS  Volume: 22  Issue: 6  Pages: 1396-1417  DOI: 10.1002/num.20162  Published: NOV 2006
+ISSN: 0749-159X
+Record 20 of 28
+Title: A finite difference method for studying thermal deformation in a thin film exposed to ultrashort-pulsed lasers
+Author(s): Wang, H (Wang, H); Dai, W (Dai, W); Nassar, R (Nassar, R); Melnik, R (Melnik, R)
+Source: INTERNATIONAL JOURNAL OF HEAT AND MASS TRANSFER  Volume: 49  Issue: 15-16  Pages: 2712-2723  DOI: 10.1016/j.ijheatmasstransfer.2006.01.013  Published: JUL 2006
+ISSN: 0017-9310
+Record 21 of 28
+Title: Optimal temperature distribution in a three dimensional triple-layered skin structure with embedded vasculature
+Author(s): Dai, WZ (Dai, WZ); Bejan, A (Bejan, A); Tang, XG (Tang, XG); Zhang, L (Zhang, L); Nassar, R (Nassar, R)
+Source: JOURNAL OF APPLIED PHYSICS  Volume: 99  Issue: 10  Article Number: 104702  DOI: 10.1063/1.2199193  Published: MAY 15 2006
+ISSN: 0021-8979
+Record 22 of 28
+Title: A stable three-level finite difference scheme for solving the parabolic two-step model in a 3D micro-sphere heated by ultrashort-pulsed lasers
+Author(s): Kaba, IK (Kaba, IK); Dai, WZ (Dai, WZ)
+Source: JOURNAL OF COMPUTATIONAL AND APPLIED MATHEMATICS  Volume: 181  Issue: 1  Pages: 125-147  DOI: 10.1016/j.cam.2004.11.024  Published: SEP 1 2005
+ISSN: 0377-0427
+Record 23 of 28
+Title: A numerical method for optimizing laser power in the irradiation of a 3-D triple-layered cylindrical skin structure
+Author(s): Zhang, L (Zhang, L); Dai, WZ (Dai, WZ); Nassar, R (Nassar, R)
+Source: NUMERICAL HEAT TRANSFER PART A-APPLICATIONS  Volume: 48  Issue: 1  Pages: 21-41  DOI: 10.1080/104077805909292865  Published: JUL 1 2005
+ISSN: 1040-7782
+Record 24 of 28
+Title: A transmission line matrix (TLM) study of hyperbolic heat conduction in biological materials
+Author(s): Saidane, A (Saidane, A); Aliouat, S (Aliouat, S); Benzohra, M (Benzohra, M); Ketata, M (Ketata, M)
+Source: JOURNAL OF FOOD ENGINEERING  Volume: 68  Issue: 4  Pages: 491-496  DOI: 10.1016/j.jfoodeng.2004.06.029  Published: JUN 2005
+ISSN: 0260-8774
+Record 25 of 28
+Title: Preparation and characterization of antimony-doped tin dioxide electrodes. 3. XPS and SIMS characterization
+Author(s): Montilla, F (Montilla, F); Morallon, E (Morallon, E); De Battisti, A (De Battisti, A); Barison, S (Barison, S); Daolio, S (Daolio, S); Vazquez, JL (Vazquez, JL)
+Source: JOURNAL OF PHYSICAL CHEMISTRY B  Volume: 108  Issue: 41  Pages: 15976-15981  DOI: 10.1021/jp048674+  Published: OCT 14 2004
+ISSN: 1520-6106
+Record 26 of 28
+Title: A stable and convergent three-level finite difference scheme for solving a dual-phase-lagging heat transport equation in spherical coordinates
+Author(s): Dai, WZ (Dai, WZ); Shen, LX (Shen, LX); Nassar, R (Nassar, R); Zhu, T (Zhu, T)
+Source: INTERNATIONAL JOURNAL OF HEAT AND MASS TRANSFER  Volume: 47  Issue: 8-9  Pages: 1817-1825  DOI: 10.1016/j.ijheatmasstransfer.2003.10.013  Published: APR 2004
+ISSN: 0017-9310
+Record 27 of 28
+Title: Non-Fourier heat conduction effect on prediction of temperature transients and thermal stress in skin cryopreservation
+Author(s): Deng, ZS (Deng, ZS); Liu, J (Liu, J)
+Source: JOURNAL OF THERMAL STRESSES  Volume: 26  Issue: 8  Pages: 779-798  DOI: 10.1080/01495730390219377  Published: AUG 2003
+ISSN: 0149-5739
+Record 28 of 28
+Title: Heat transfer - a review of 2000 literature
+Author(s): Goldstein, RJ (Goldstein, RJ); Eckert, ERG (Eckert, ERG); Ibele, WE (Ibele, WE); Patankar, SV (Patankar, SV); Simon, TW (Simon, TW); Kuehn, TH (Kuehn, TH); Strykowski, PJ (Strykowski, PJ); Tamma, KK (Tamma, KK); Bar-Cohen, A (Bar-Cohen, A); Heberlein, JVR (Heberlein, JVR); Davidson, JH (Davidson, JH); Bischof, J (Bischof, J); Kulacki, FA (Kulacki, FA); Kortshagen, U (Kortshagen, U); Garrick, S (Garrick, S)
+Source: INTERNATIONAL JOURNAL OF HEAT AND MASS TRANSFER  Volume: 45  Issue: 14  Pages: 2853-2957  Article Number:   DOI: 10.1016/S0017-9310(02)00027-3  Published: JUL 2002
+ISSN: 0017-9310
